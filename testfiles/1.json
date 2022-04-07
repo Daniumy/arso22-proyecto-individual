@@ -1,0 +1,13 @@
+{
+	"calificacionMedia": 3.0,
+	"numValoraciones": 2,
+	"url": "https://www.urldeprueba.com",
+	"valoraciones": [
+		{
+			"calificacion": 2.0,
+			"comentario": "comentario amai",
+			"email": "pepe@gmail.com",
+			"fechaRegistro": "2022-03-21T11:25:33.227"
+		}
+	]
+}
