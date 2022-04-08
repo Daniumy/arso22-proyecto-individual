@@ -1,6 +1,7 @@
 package opiniones.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
 import java.util.LinkedList;
 
@@ -9,10 +10,11 @@ import javax.xml.bind.annotation.XmlTransient;
 import org.bson.codecs.pojo.annotations.BsonId;
 import org.bson.types.ObjectId;
 
+@JsonIgnoreProperties(ignoreUnknown = true)
 public class Opinion {
 
-		@JsonIgnore
 		@BsonId
+		@JsonIgnore
 		private ObjectId id;
 		private String url;
 		private LinkedList<Valoracion> valoraciones = new LinkedList<>();

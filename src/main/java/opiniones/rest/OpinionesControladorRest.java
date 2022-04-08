@@ -38,7 +38,7 @@ public class OpinionesControladorRest {
 	@POST
 	@Consumes(MediaType.APPLICATION_JSON)
 	public Response create(Opinion opinion) throws Exception {
-
+		System.out.println("he entrado al create normal");
 		String id = servicio.create(opinion);
 		System.out.println(id);
 		URI uri = uriInfo.getAbsolutePathBuilder().path(id).build();
@@ -82,7 +82,7 @@ public class OpinionesControladorRest {
 	@Path("{url: .*}")
 	@Consumes(MediaType.APPLICATION_JSON)
 	public Response anadirValoracion(@PathParam("url") String url, Valoracion valoracion) throws Exception {
-
+		System.out.println("he entrado al create normal de anadirValoracion");
 		servicio.anadirValoracion(url, valoracion);
 
 		return Response.status(Response.Status.NO_CONTENT).build();
