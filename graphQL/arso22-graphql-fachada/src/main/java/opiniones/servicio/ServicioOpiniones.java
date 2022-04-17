@@ -1,5 +1,7 @@
 package opiniones.servicio;
 
+import java.time.LocalDateTime;
+
 import javax.jws.WebService;
 
 import opiniones.model.Opinion;
@@ -42,19 +44,9 @@ public class ServicioOpiniones implements IServicioOpiniones {
 		if (repositorio.isUrlRepetida(opinion.getUrl()))
 			throw new IllegalArgumentException("URL: solo puede haber una instancia por URL");
 
-		if (opinion.getValoraciones() == null)
-			throw new IllegalArgumentException("valoraciones: no debe ser una coleccion nula");
-
-		if (opinion.getNumValoraciones() == 0)
-			throw new IllegalArgumentException("valoraciones: no debe ser una coleccion que no tiene valoraciones");
-
-		if (opinion.getCalificacionMedia() == 0)
-			throw new IllegalArgumentException("valoraciones: no debe ser una coleccion cuya valoracion media es 0");
-
 		for (Valoracion valoracion : opinion.getValoraciones()) {
 			if (valoracion.getEmail() == null || valoracion.getEmail().isEmpty())
 				throw new IllegalArgumentException("valoracion, email: no debe ser nulo ni vacio");
-
 			if (valoracion.getCalificacion() < 1 || valoracion.getCalificacion() > 5)
 				throw new IllegalArgumentException("calificacion: debe de estar entre 1 y 5");
 			if (valoracion.getFechaRegistro() == null)
@@ -65,13 +57,22 @@ public class ServicioOpiniones implements IServicioOpiniones {
 
 		return id;
 	}
-	
+
 //Añadir una valoración para una URL. Si un usuario registra una segunda valoración para una misma URL, ésta reemplazará a la primera.
 	@Override
 	public void anadirValoracion(String url, Valoracion valoracion) throws RepositorioException, EntidadNoEncontrada {
 		Opinion opinion = getByUrl(url);
+		if (valoracion == null)
+			throw new IllegalArgumentException("valoracion: no debe ser una valoracion nula");
+
+		if (valoracion.getEmail() == null || valoracion.getEmail().isEmpty())
+			throw new IllegalArgumentException("valoracion, email: no debe ser nulo ni vacio");
+		if (valoracion.getCalificacion() < 1 || valoracion.getCalificacion() > 5)
+			throw new IllegalArgumentException("calificacion: debe de estar entre 1 y 5");
+		
+		valoracion.setFechaRegistro(LocalDateTime.now());
 		String emailNuevaValoracion = valoracion.getEmail();
-		for (Valoracion valoracionaux: opinion.getValoraciones()) {
+		for (Valoracion valoracionaux : opinion.getValoraciones()) {
 			if (valoracionaux.getEmail().equals(emailNuevaValoracion)) {
 				valoracionaux.setCalificacion(valoracion.getCalificacion());
 				valoracionaux.setComentario(valoracion.getComentario());
@@ -82,7 +83,6 @@ public class ServicioOpiniones implements IServicioOpiniones {
 			}
 		}
 		opinion.getValoraciones().add(valoracion);
-		System.out.println("añadido uno extra");
 		repositorio.update(opinion);
 	}
 	
@@ -103,17 +103,19 @@ public class ServicioOpiniones implements IServicioOpiniones {
 		repositorio.delete(opinion);
 
 	}
+
 	@Override
 	public void removeAll() throws RepositorioException, EntidadNoEncontrada {
-		for (Opinion opinion: repositorio.getAll()) {
+		for (Opinion opinion : repositorio.getAll()) {
 			remove(opinion.getIdentificador());
 		}
-		
+
 	}
+
 	@Override
 	public void removeUrl(String url) throws RepositorioException, EntidadNoEncontrada {
 		Opinion opinion = getByUrl(url);
-		
+
 		repositorio.delete(opinion);
 	}
 

@@ -10,8 +10,8 @@ import opiniones.repositorio.RepositorioException;
 import opiniones.servicio.ServicioOpiniones;
 
 public class Query implements GraphQLRootResolver {
+	//Recuperar la opinión de una URL.
 	public Opinion getOpinion(String url) throws RepositorioException, EntidadNoEncontrada {
-		System.out.println("\n\n\n\nAMAI\n\n\n\n");
 		return ServicioOpiniones.getInstancia().getByUrl(url);
 	}
 }

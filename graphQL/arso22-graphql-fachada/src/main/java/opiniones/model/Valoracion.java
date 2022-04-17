@@ -17,7 +17,7 @@ public class Valoracion {
 	@JsonDeserialize(using = LocalDateTimeDeserializer.class)
 	private LocalDateTime fechaRegistro;
 	
-	private double calificacion;
+	private int calificacion;
 	private String comentario;
 
 	public String getEmail() {
@@ -37,11 +37,11 @@ public class Valoracion {
 		this.fechaRegistro = fechaRegistro;
 	}
 
-	public double getCalificacion() {
+	public int getCalificacion() {
 		return calificacion;
 	}
 
-	public void setCalificacion(double d) {
+	public void setCalificacion(int d) {
 		this.calificacion = d;
 	}
 

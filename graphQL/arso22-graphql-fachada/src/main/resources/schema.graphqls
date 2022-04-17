@@ -4,22 +4,31 @@ type Opinion {
   valoraciones: [Valoracion]! 
 }
 
+
 type Valoracion {
- email: String!
+ email: String! 
  fechaRegistro: String!
- calificacion: String!
+ calificacion: Int!
  comentario: String!
- 
 }
 
+input ValoracionInput {
+ email: String! 
+ calificacion: Int!
+ comentario: String!
+}
+
+
 type Query {
-  getOpinion(id: String!): Opinion!
+  getOpinion(url: String!): Opinion!
 }
 
 type Mutation {
-  crearOpinion(url: String!, 
-  		valoraciones: [Valoracion]!): Opinion!
+  crearOpinion(url: String!): Opinion!
+  anadirValoracion(url: String!, valoracion: ValoracionInput!): Valoracion!
+  eliminarOpinion(url: String!): Boolean!
 }
+
 
 schema {
   query: Query

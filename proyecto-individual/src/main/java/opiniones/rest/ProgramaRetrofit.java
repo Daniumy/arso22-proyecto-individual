@@ -57,11 +57,11 @@ public class ProgramaRetrofit {
 		System.out.println("Respuesta del intento correcto de modificacion de valoracion: " + respuesta3 + "\n");
 		
 		// Eliminación de opinión
-		Response<Void> respuesta4 = service.removeOpinion("https://www.urldeprueba.com").execute();
-		System.out.println("Respuesta del intento correcto de eliminacion de opinion: " + respuesta4 + "\n");
-
-		Response<Void> respuesta5 = service.removeOpinion("https://www.urldeprueba.com").execute();
-		System.out.println("Respuesta del intento erróneo de eliminacion de opinion: " + respuesta5 + "\n");
+//		Response<Void> respuesta4 = service.removeOpinion("https://www.urldeprueba.com").execute();
+//		System.out.println("Respuesta del intento correcto de eliminacion de opinion: " + respuesta4 + "\n");
+//
+//		Response<Void> respuesta5 = service.removeOpinion("https://www.urldeprueba.com").execute();
+//		System.out.println("Respuesta del intento erróneo de eliminacion de opinion: " + respuesta5 + "\n");
 		
 		
 	}

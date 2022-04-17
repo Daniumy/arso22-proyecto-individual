@@ -20,13 +20,13 @@ public class Main {
 		opinion.setUrl("https://www.urldeprueba.com");
 		
 		Valoracion valoracion1 = new Valoracion();
-		valoracion1.setCalificacion(2.0);
+		valoracion1.setCalificacion(2);
 		valoracion1.setEmail("pepe@gmail.com");
 		valoracion1.setComentario("comentario");
 		valoracion1.setFechaRegistro(LocalDateTime.now());
 		
 		Valoracion valoracion2 = new Valoracion();
-		valoracion2.setCalificacion(4.0);
+		valoracion2.setCalificacion(4);
 		valoracion2.setEmail("alberto@gmail.com");
 		valoracion2.setComentario("comentario");
 		valoracion2.setFechaRegistro(LocalDateTime.now());
@@ -44,7 +44,7 @@ public class Main {
 		//curl -i -X POST -H "Content-Type: application/json" -d @testfiles/valoracion.json http://localhost:8080/api/opiniones/https://www.urldeprueba.com
 		//Añadir una valoración para una URL. Si un usuario registra una segunda valoración para una misma URL, ésta reemplazará a la primera.
 		Valoracion valoracion3 = new Valoracion();
-		valoracion3.setCalificacion(3.0);
+		valoracion3.setCalificacion(3);
 		valoracion3.setEmail("alberto@gmail.com");
 		valoracion3.setComentario("comentario amai3");
 		valoracion3.setFechaRegistro(LocalDateTime.now());
