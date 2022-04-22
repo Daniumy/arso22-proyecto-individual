@@ -1,4 +1,4 @@
-package opiniones.repositorio;
+package usuarios.repositorio;
 
 import edu.umd.cs.findbugs.annotations.SuppressWarnings;
 

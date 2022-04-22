@@ -13,12 +13,15 @@ import javax.ws.rs.core.Context;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 import javax.ws.rs.core.Response.Status;
+import javax.ws.rs.core.SecurityContext;
 import javax.ws.rs.core.UriInfo;
 
 import opiniones.model.Opinion;
 import opiniones.model.Valoracion;
 import opiniones.repositorio.EntidadNoEncontrada;
 import opiniones.repositorio.RepositorioException;
+import opiniones.rest.seguridad.AvailableRoles;
+import opiniones.rest.seguridad.Secured;
 import opiniones.servicio.IServicioOpiniones;
 import opiniones.servicio.ServicioOpiniones;
 
@@ -30,6 +33,10 @@ public class OpinionesControladorRest {
 	@Context
 	private UriInfo uriInfo;
 
+	
+	@Context
+	private SecurityContext securityContext;
+	
 	// String create(Opinion opinion) throws RepositorioException;
 
 	// curl -i -X POST -H "Content-Type: application/json" -d @testfiles/1.json
@@ -37,6 +44,7 @@ public class OpinionesControladorRest {
 
 	@POST
 	@Consumes(MediaType.APPLICATION_JSON)
+	@Secured(AvailableRoles.ADMINISTRADOR)
 	public Response create(Opinion opinion) throws Exception {
 		System.out.println("he entrado al create normal");
 		String id = servicio.create(opinion);
@@ -53,6 +61,7 @@ public class OpinionesControladorRest {
 	// EntidadNoEncontrada
 	@DELETE
 	@Path("{url: .*}")
+	@Secured(AvailableRoles.ADMINISTRADOR)
 	public Response removeUrl(@PathParam("url") String url) throws Exception {
 		System.out.println(url);
 		servicio.removeUrl(url);
@@ -68,6 +77,7 @@ public class OpinionesControladorRest {
 	@GET
 	@Path("{url: .*}")
 	@Produces(MediaType.APPLICATION_JSON)
+	@Secured(AvailableRoles.USUARIO)
 	public Response getByUrl(@PathParam("url") String url) throws Exception {
 		Opinion opinion = servicio.getByUrl(url);
 		return Response.status(Status.OK).entity(opinion).build();
@@ -81,6 +91,7 @@ public class OpinionesControladorRest {
 	@POST
 	@Path("{url: .*}")
 	@Consumes(MediaType.APPLICATION_JSON)
+	@Secured(AvailableRoles.USUARIO)
 	public Response anadirValoracion(@PathParam("url") String url, Valoracion valoracion) throws Exception {
 		System.out.println("he entrado al create normal de anadirValoracion");
 		servicio.anadirValoracion(url, valoracion);
