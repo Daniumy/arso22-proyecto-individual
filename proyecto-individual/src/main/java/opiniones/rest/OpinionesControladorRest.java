@@ -93,7 +93,6 @@ public class OpinionesControladorRest {
 	@Consumes(MediaType.APPLICATION_JSON)
 	@Secured(AvailableRoles.USUARIO)
 	public Response anadirValoracion(@PathParam("url") String url, Valoracion valoracion) throws Exception {
-		System.out.println("he entrado al create normal de anadirValoracion");
 		servicio.anadirValoracion(url, valoracion);
 
 		return Response.status(Response.Status.NO_CONTENT).build();

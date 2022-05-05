@@ -8,8 +8,8 @@ import java.lang.annotation.Target;
 // import javax.ws.rs.NameBinding;
 
 // @NameBinding
-@Target({ElementType.METHOD, ElementType.TYPE})
+@Target({ ElementType.METHOD, ElementType.TYPE })
 @Retention(RetentionPolicy.RUNTIME)
 public @interface Secured {
-	AvailableRoles[] value() default{};
+	AvailableRoles[] value() default {};
 }

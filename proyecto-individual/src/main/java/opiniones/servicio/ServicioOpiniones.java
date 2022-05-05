@@ -2,8 +2,18 @@ package opiniones.servicio;
 
 import java.time.LocalDateTime;
 
+import javax.json.bind.Jsonb;
+import javax.json.bind.spi.JsonbProvider;
 import javax.jws.WebService;
 
+import org.xml.sax.SAXParseException;
+
+import com.rabbitmq.client.AMQP;
+import com.rabbitmq.client.Channel;
+import com.rabbitmq.client.Connection;
+import com.rabbitmq.client.ConnectionFactory;
+
+import opiniones.eventos.EventoValoracionCreada;
 import opiniones.model.Opinion;
 import opiniones.model.Valoracion;
 import opiniones.repositorio.EntidadNoEncontrada;
@@ -69,7 +79,7 @@ public class ServicioOpiniones implements IServicioOpiniones {
 			throw new IllegalArgumentException("valoracion, email: no debe ser nulo ni vacio");
 		if (valoracion.getCalificacion() < 1 || valoracion.getCalificacion() > 5)
 			throw new IllegalArgumentException("calificacion: debe de estar entre 1 y 5");
-		
+
 		valoracion.setFechaRegistro(LocalDateTime.now());
 		String emailNuevaValoracion = valoracion.getEmail();
 		for (Valoracion valoracionaux : opinion.getValoraciones()) {
@@ -84,8 +94,55 @@ public class ServicioOpiniones implements IServicioOpiniones {
 		}
 		opinion.getValoraciones().add(valoracion);
 		repositorio.update(opinion);
+
+		// Notificar evento reserva creada
+		// 1. Crear el evento
+		EventoValoracionCreada evento = new EventoValoracionCreada();
+		evento.setCalificacionMedia(opinion.getCalificacionMedia());
+		evento.setNumValoraciones(opinion.getNumValoraciones());
+		evento.setUrl(opinion.getUrl());
+		evento.setValoracion(valoracion);
+		// 2. Notificarlo
+		notificarEvento(evento);
 	}
-	
+
+	protected void notificarEvento(EventoValoracionCreada evento) {
+		System.out.println("voy a notificar el evento" + evento.getUrl());
+		try {
+			ConnectionFactory factory = new ConnectionFactory();
+			factory.setUri("amqps://wswcdlhl:pIJYGbkfqu-TYpyC0tKcDwEt-xQVTH6K@squid.rmq.cloudamqp.com/wswcdlhl");
+
+			Connection connection = factory.newConnection();
+
+			Channel channel = connection.createChannel();
+
+			/** Declaración del Exchange **/
+
+			final String exchangeName = "arso-exchange";
+
+			boolean durable = true;
+			channel.exchangeDeclare(exchangeName, "direct", durable);
+
+			/** Envío del mensaje **/
+
+			Jsonb contexto = JsonbProvider.provider().create().build();
+
+			String cadenaJSON = contexto.toJson(evento);
+
+			String mensaje = cadenaJSON;
+
+			String routingKey = "arso";
+			channel.basicPublish(exchangeName, routingKey,
+					new AMQP.BasicProperties.Builder().contentType("application/json").build(), mensaje.getBytes());
+			System.out.println("la variable mensaje luce tal que: "+mensaje);
+			channel.close();
+			connection.close();
+		} catch (Exception e) {
+
+			throw new RuntimeException(e);
+		}
+	}
+
 	@Override
 	public Opinion getByUrl(String url) throws RepositorioException, EntidadNoEncontrada {
 		return repositorio.getByUrl(url);
