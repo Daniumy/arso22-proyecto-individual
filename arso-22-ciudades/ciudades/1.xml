@@ -1,0 +1,1924 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ciudad xmlns="http://www.um.es/ciudad">
+    <id>1</id>
+    <nombre>Lorca</nombre>
+    <codigoPostal>30800</codigoPostal>
+    <sitios-de-interes>
+        <sitioInteres>
+            <id>Palacio_de_los_Condes_de_San_Juli%C3%A1n</id>
+            <nombre>Palacio de los Condes de San Julián</nombre>
+            <descripcion>El palacio de los Condes de San Julián es una casa solariega situada en la ciudad de Lorca (Región
+            de Murcia, España) cuyos orígenes se remontan al siglo XVII, aunque su apariencia externa está alterada por
+            modificaciones realizadas en el siglo XVIII otorgándole aspecto de fortaleza, y neomudéjares (...)
+        </descripcion>
+            <rank>19</rank>
+            <direccion>
+                <calle>Avenida Juan Carlos I</calle>
+                <numero>2</numero>
+                <localidad>San Mateo</localidad>
+                <codigoPostal>30800</codigoPostal>
+                <lat>37.6713</lat>
+                <lng>-1.6988</lng>
+            </direccion>
+        </sitioInteres>
+        <sitioInteres>
+            <id>Estaci%C3%B3n_de_Lorca-Sutullena</id>
+            <nombre>Estación de Lorca-Sutullena</nombre>
+            <descripcion>Lorca-Sutullena es, junto a Lorca-San Diego una de las dos estaciones de ferrocarril de la ciudad
+            española de Lorca, en la Región de Murcia. Está situada junto a la plaza de Carruajes, próxima al centro
+            urbano y junto a la plaza de Toros de Sutullena (...)
+        </descripcion>
+            <rank>91</rank>
+            <direccion>
+                <calle>Avenida Periodista Lopez Barne</calle>
+                <numero>10</numero>
+                <localidad>San Mateo</localidad>
+                <codigoPostal>30800</codigoPostal>
+                <lat>37.6719</lat>
+                <lng>-1.6961</lng>
+            </direccion>
+        </sitioInteres>
+        <sitioInteres>
+            <id>Tiata</id>
+            <nombre>Tiata</nombre>
+            <descripcion>Tiata es una pedanía del municipio español de Lorca, en la Región de Murcia. Es la pedanía de menor
+            tamaño del municipio y se encuentra colindante a la capital de éste. Cuenta con 596 habitantes. En su
+            término se sitúa el santuario de la Virgen de las Huertas, cuya construcción se remonta al siglo XVIII.​
+        </descripcion>
+            <rank>21</rank>
+            <direccion>
+                <calle>Calle Torrecilla</calle>
+                <numero>8</numero>
+                <localidad>San Jose</localidad>
+                <codigoPostal>30800</codigoPostal>
+                <lat>37.6665</lat>
+                <lng>-1.7058</lng>
+            </direccion>
+        </sitioInteres>
+        <sitioInteres>
+            <id>Colegiata_de_San_Patricio</id>
+            <nombre>Colegiata de San Patricio</nombre>
+            <descripcion>La antigua colegiata de San Patricio de Lorca (aunque comúnmente sigue siendo llamada colegiata de
+            San Patricio), es un edificio de estilo renacentista declarado Monumento Histórico-Artístico Nacional por
+            decreto del 27 de enero de 1941.​ La Colegiata es la piedra angular del conjunto monumental de la Plaza de
+            España, junto al Ayuntamiento, el Palacio del Corregidor y las Salas Capitulares. Esta Colegiata es la única
+            en España que se encuentra bajo la advocación de San Patricio. La dedicación al santo irlandés, tiene su
+            origen en la batalla de Los Alporchones, librada el 17 de marzo de 1452 (día de San Patricio), y que
+            enfrentó a los habitantes de la ciudad y de otras partes del antiguo reino de Murcia con huestes musulmanas
+            procedentes de Granada que habían asolado la comarca de Cartagena. Las obras comenzaron, por bula del papa
+            Clemente VII, en 1533 sobre la vieja iglesia de San Jorge. La construcción, no exenta de problemas, se
+            dilató hasta 1780 siguiendo el proyecto de Jerónimo Quijano, maestro de las Obras del Obispado de Cartagena.
+            Concebida con aires catedralicios, su interior se articula en tres naves, doce capillas laterales en los
+            contrafuertes, coro y trascoro, girola con capillas radiales y torre-campanario en la cabecera. También es
+            de destacar el elevado crucero.
+        </descripcion>
+            <rank>91</rank>
+            <direccion>
+                <calle>Calle Abad De Los Arcos</calle>
+                <numero>2</numero>
+                <localidad>Parroquias Altas</localidad>
+                <codigoPostal>30800</codigoPostal>
+                <lat>37.6775</lat>
+                <lng>-1.6994</lng>
+            </direccion>
+        </sitioInteres>
+        <sitioInteres>
+            <id>Iglesia_de_Santiago_%28Lorca%29</id>
+            <nombre>Iglesia de Santiago (Lorca)</nombre>
+            <descripcion>La iglesia de Santiago de Lorca, es un templo barroco que tiene como origen previo a la iglesia una
+            ermita del siglo XV en honor al mismo santo. Esa ermita fue ubicada donde, según cuenta la tradición, había
+            predicado el apóstol (...)
+        </descripcion>
+            <rank>67</rank>
+            <direccion>
+                <calle>Calle Villaescusa</calle>
+                <numero>1</numero>
+                <localidad>Santiago</localidad>
+                <codigoPostal>30800</codigoPostal>
+                <lat>37.6772</lat>
+                <lng>-1.6981</lng>
+            </direccion>
+        </sitioInteres>
+        <sitioInteres>
+            <id>Castillo_de_Lorca</id>
+            <nombre>Castillo de Lorca</nombre>
+            <descripcion>El Castillo de Lorca (Murcia, España) es una fortaleza de origen medieval construida entre los
+            siglos IX y XV. Comprende una serie de estructuras defensivas que, durante la Edad Media, convirtieron a la
+            ciudad y a su fortaleza en un punto inexpugnable del sureste peninsular. El castillo de Lorca fue un bastión
+            clave en las contiendas entre cristianos y musulmanes en la frontera de Granada. Se encuentra catalogado
+            como Bien de Interés Cultural​ y dentro de la delimitación del conjunto histórico-artístico de Lorca.​​ Por
+            su extensión, 640 metros de largo por unos 120 metros en su punto más ancho, es uno de los castillos más
+            grandes de España.
+        </descripcion>
+            <foto>http://commons.wikimedia.org/wiki/Special:FilePath/Castillo_de_Lorca1.jpg?width=300</foto>
+            <rank>92</rank>
+            <direccion>
+                <calle></calle>
+                <numero>0</numero>
+                <localidad></localidad>
+                <codigoPostal></codigoPostal>
+                <lat>37.6775</lat>
+                <lng>-1.7058</lng>
+            </direccion>
+        </sitioInteres>
+        <sitioInteres>
+            <id>Museo_Arqueol%C3%B3gico_Municipal_de_Lorca</id>
+            <nombre>Museo Arqueológico Municipal de Lorca</nombre>
+            <descripcion>El museo Arqueológico Municipal de Lorca (Murcia), España, fue fundado en marzo de 1992 y se
+            encuentra en la plaza de Juan Moreno. El Ayuntamiento de Lorca es el encargado de la titularidad y gestión
+            del museo. El museo nació con el fin de un mejor desarrollo cultural de Lorca y la comarca. (...)
+        </descripcion>
+            <rank>72</rank>
+            <direccion>
+                <calle>Plaza Don Juan Moreno</calle>
+                <numero>12</numero>
+                <localidad>Santiago</localidad>
+                <codigoPostal>30800</codigoPostal>
+                <lat>37.6785</lat>
+                <lng>-1.6966</lng>
+            </direccion>
+        </sitioInteres>
+        <sitioInteres>
+            <id>Lorca</id>
+            <nombre>Lorca</nombre>
+            <descripcion>Lorca es una ciudad y municipio español perteneciente a la Región de Murcia, situada en la comarca
+            del Alto Guadalentín, en el sureste de la península ibérica. Es la tercera población en importancia de la
+            Región de Murcia tras Murcia y Cartagena, con 94 404 habitantes (INE 2019); de ellos, 60 914 habitantes
+            corresponden al casco urbano​ y el resto a sus numerosas pedanías, distribuidas a lo largo y ancho de los 1
+            675 km² de término municipal,​ el segundo más extenso de España tras el de Cáceres. Lorca es conocida por su
+            castillo, su arquitectura barroca y sus procesiones de Semana Santa, declaradas fiesta de interés turístico
+            internacional. Gracias a su denso patrimonio heráldico es también llamada «la ciudad de los cien escudos»,
+            nombre que le otorgó el antiguo alcalde José Antonio Gallego,​​ mientras que de su nombre original
+            (Eliocroca) toma el título de ciudad del sol.​​​Su casco antiguo y el recinto del castillo,​ fueron
+            declarados conjunto histórico-artístico el 5 de marzo del 1964,​ siendo el primero de la Región de Murcia
+            con esta distinción. ​​
+        </descripcion>
+            <rank>100</rank>
+            <direccion>
+                <calle>Alameda Poeta Para Vico</calle>
+                <numero>3</numero>
+                <localidad>Santiago</localidad>
+                <codigoPostal>30800</codigoPostal>
+                <lat>37.6798</lat>
+                <lng>-1.6944</lng>
+            </direccion>
+        </sitioInteres>
+        <sitioInteres>
+            <id>Sutullena</id>
+            <nombre>Sutullena</nombre>
+            <descripcion>Sutullena es una localidad y pedanía española perteneciente al municipio de Lorca, en la parte
+            central de la comarca del Alto Guadalentín, Región de Murcia. Cerca de esta localidad se encuentran los
+            núcleos de Tiata, Campillo y Torrecilla. Es la pedanía más poblada del municipio lorquino.
+        </descripcion>
+            <rank>12</rank>
+            <direccion>
+                <calle></calle>
+                <numero>0</numero>
+                <localidad></localidad>
+                <codigoPostal></codigoPostal>
+                <lat>37.6606</lat>
+                <lng>-1.6994</lng>
+            </direccion>
+        </sitioInteres>
+        <sitioInteres>
+            <id>Terremoto_de_Lorca_de_2011</id>
+            <nombre>Terremoto de Lorca de 2011</nombre>
+            <descripcion>El terremoto de Lorca fue un sismo de magnitud 5.1 Mw (Magnitud de momento) el 11 de mayo de 2011,
+            tuvo una intensidad Mercalli VIII en la zona epicentral y sacudió principalmente a la localidad de Lorca, en
+            la Región de Murcia, España, a las 18:47 hora local (16:47 UTC).​ Su epicentro estaba localizado en la Falla
+            de Alhama de Murcia (FAM) y sus efectos se sintieron en toda la Región de Murcia. Tuvo una magnitud de 5,1
+            ​​ en la escala de magnitud de momento.​ Fue precedido por un seísmo premonitorio de 4,5 sucedido a las
+            17:05 hora local de ese mismo día.​​El movimiento sísmico fue sentido también en las provincias de Almería,
+            Albacete, Granada, Jaén, Málaga, Alicante, Ciudad Real y algunas zonas de la ciudad de Madrid, donde el tipo
+            de suelo amplifica los movimientos en ciertos barrios.​ Múltiples réplicas se produjeron​ después del
+            principal de las 18:47, si bien la de las 22:37, hora local, fue la de mayor magnitud, con 3,9 en la escala
+            de magnitud de momento, y que pudo sentirse.​ La Región de Murcia, en la que se encuentra Lorca, es la zona
+            sismológica más activa de España, si bien esta localidad, concretamente, no está entre las de mayor
+            peligrosidad dentro de ella.​
+        </descripcion>
+            <foto>http://commons.wikimedia.org/wiki/Special:FilePath/Lorca_earthquake.jpg?width=300</foto>
+            <rank>99</rank>
+            <direccion>
+                <calle></calle>
+                <numero>0</numero>
+                <localidad></localidad>
+                <codigoPostal></codigoPostal>
+                <lat>37.699</lat>
+                <lng>-1.673</lng>
+            </direccion>
+        </sitioInteres>
+        <sitioInteres>
+            <id>Estadio_Francisco_Art%C3%A9s_Carrasco</id>
+            <nombre>Estadio Francisco Artés Carrasco</nombre>
+            <descripcion>El Estadio Municipal Francisco Artés Carrasco es el estadio municipal del municipio de Lorca. El C.
+            F. Lorca Deportiva y el Lorca F. C. disputan sus partidos como local en este recinto. Hasta 2010 fue el
+            estadio del Lorca Deportiva C. F.. También jugó de 2010 a 2012 el Lorca Atlético C. F. (...)
+        </descripcion>
+            <rank>91</rank>
+            <direccion>
+                <calle></calle>
+                <numero>0</numero>
+                <localidad></localidad>
+                <codigoPostal></codigoPostal>
+                <lat>37.6388</lat>
+                <lng>-1.7351</lng>
+            </direccion>
+        </sitioInteres>
+        <sitioInteres>
+            <id>Acueducto_de_los_Diecisiete_Arcos</id>
+            <nombre>Acueducto de los Diecisiete Arcos</nombre>
+            <descripcion>El Acueducto de los Diecisiete Arcos es una obra hidráulica ubicada en el término municipal de
+            Lorca (Murcia). El acueducto, que cruza la rambla del mismo nombre o rambla de Romí, forma parte de la Real
+            Acequia de Alcalá, que nace en el Partidor de la Mina y que por un trazado de 7 km lleva el agua al
+            Heredamiento de Sutullena.​ La Real Acequia de Alcalá, de origen árabe, fue renovada entre los años 1785 y
+            1791 debido a la construcción de los pantanos de Puentes y Valdeinfierno. Es en esta época cuando se
+            construye el acueducto que sustituye a uno precedente de veintinueve arcos, que regularmente experimentaba
+            fuertes deterioros causados por las fuertes avenidas.​ El proyecto y la dirección de la obra corrieron a
+            cargo del arquitecto .​
+        </descripcion>
+            <rank>18</rank>
+            <direccion>
+                <calle></calle>
+                <numero>0</numero>
+                <localidad></localidad>
+                <codigoPostal></codigoPostal>
+                <lat>37.6925</lat>
+                <lng>-1.7641</lng>
+            </direccion>
+        </sitioInteres>
+        <sitioInteres>
+            <id>Rambla_de_B%C3%A9jar</id>
+            <nombre>Rambla de Béjar</nombre>
+            <descripcion>Rambla de Béjar (Puerto Lumbreras, Murcia) es un cauce de agua de carácter estacional que
+            constituye el límite geográfico entre los municipios de Lorca y Puerto Lumbreras cuyo nacimiento se sitúa en
+            la Sierra de la Torrecilla desaguando en el abanico aluvial sobre la Depresión Prelitoral, en la (...)
+        </descripcion>
+            <rank>81</rank>
+            <direccion>
+                <calle></calle>
+                <numero>0</numero>
+                <localidad></localidad>
+                <codigoPostal></codigoPostal>
+                <lat>37.6006</lat>
+                <lng>-1.7634</lng>
+            </direccion>
+        </sitioInteres>
+        <sitioInteres>
+            <id>Aguaderas</id>
+            <nombre>Aguaderas</nombre>
+            <descripcion>Aguaderas es una pedanía de la ciudad española de Lorca, en la Región de Murcia. Se sitúa a
+            aproximadamente 15 kilómetros al sureste de la capital municipal, y cuenta con una superficie de alrededor
+            de 50 km². Cuenta con 388​ habitantes. El poblamiento se caracteriza por su dispersión, sin que exista un
+            núcleo importante de población. La economía de la localidad se basa fundamentalmente en la agricultura y la
+            ganadería. En este territorio tuvo lugar la batalla de Los Alporchones en 1452, entre las tropas del reino
+            nazarí de Granada y las del reino cristiano de Murcia.​ Las fiestas patronales de la pedanía se celebran el
+            12 de octubre, en honor a la Virgen del Pilar.
+        </descripcion>
+            <rank>10</rank>
+            <direccion>
+                <calle></calle>
+                <numero>0</numero>
+                <localidad></localidad>
+                <codigoPostal></codigoPostal>
+                <lat>37.631</lat>
+                <lng>-1.598</lng>
+            </direccion>
+        </sitioInteres>
+        <sitioInteres>
+            <id>Pantano_de_Puentes</id>
+            <nombre>Pantano de Puentes</nombre>
+            <descripcion>El pantano o embalse de Puentes está situado en la pedanía de La Tova, perteneciente al municipio
+            español de Lorca, en la Región de Murcia. La presa se halla situada en el río Guadalentín y tiene una doble
+            finalidad, embalsar agua para el abastecimiento y mitigar los efectos de las riadas y avenidas.
+        </descripcion>
+            <rank>75</rank>
+            <direccion>
+                <calle></calle>
+                <numero>0</numero>
+                <localidad></localidad>
+                <codigoPostal></codigoPostal>
+                <lat>37.7347</lat>
+                <lng>-1.8193</lng>
+            </direccion>
+        </sitioInteres>
+        <sitioInteres>
+            <id>Puerto_Lumbreras</id>
+            <nombre>Puerto Lumbreras</nombre>
+            <descripcion>Puerto Lumbreras es un municipio español de la Región de Murcia. Se encuentra ubicado al suroeste
+            de la región, a orillas de la Rambla Nogalte, en la comarca del Alto Guadalentín, y lindando con la
+            provincia de Almería. Cuenta con una población de 15 394 habitantes (INE 2019).​
+        </descripcion>
+            <rank>99</rank>
+            <direccion>
+                <calle>Calle Rosa (La)</calle>
+                <numero>6</numero>
+                <localidad>Puerto Lumbreras</localidad>
+                <codigoPostal>30890</codigoPostal>
+                <lat>37.5633</lat>
+                <lng>-1.8097</lng>
+            </direccion>
+        </sitioInteres>
+        <sitioInteres>
+            <id>La_Bastida_de_Totana</id>
+            <nombre>La Bastida de Totana</nombre>
+            <descripcion>La Bastida de Totana es un yacimiento arqueológico perteneciente a la cultura argárica situado en
+            el municipio español de Totana, en la Región de Murcia. Está ubicado sobre un cerro de perfil cónico a unos
+            6 km al oeste de la localidad de Totana y fue ocupado entre aproximadamente 2200 y 1550 antes de Cristo. Se
+            trata de uno de los poblados más extensos (4,5 ha. como estimación mínima) de los inicios de la Edad del
+            Bronce en Europa continental y está considerado como uno de los asentamientos más importantes de la
+            Prehistoria reciente europea.​ Formó parte de la red de centros neurálgicos argáricos, con incipiente
+            urbanismo y en los que se detectan desigualdades políticas y económicas. En 2005 La Bastida fue declarada
+            Bien de Interés Cultural.​ Su larga historia de investigación, iniciada en 1869, y las actividades de campo
+            llevadas a cabo desde 2008 por el grupo de investigación Arqueoecología Social Mediterránea (ASOME) de la
+            Universidad Autónoma de Barcelona, lo convierten en uno de los yacimientos argáricos mejor conocidos hasta
+            ahora.
+        </descripcion>
+            <rank>96</rank>
+            <direccion>
+                <calle></calle>
+                <numero>0</numero>
+                <localidad></localidad>
+                <codigoPostal></codigoPostal>
+                <lat>37.7603</lat>
+                <lng>-1.5604</lng>
+            </direccion>
+        </sitioInteres>
+        <sitioInteres>
+            <id>R%C3%ADo_Luchena</id>
+            <nombre>Río Luchena</nombre>
+            <descripcion>El Luchena es un río de la Región de Murcia (España) que brota junto a la Casa de la Chiripa, bajo
+            la buitrera del Cerro de los Machos (1.204 m.) y el Estrecho, cañón angosto y sinuoso donde se alza el
+            Embalse de Valdeinfierno, en las Tierras Altas de Lorca (...)
+        </descripcion>
+            <rank>75</rank>
+            <direccion>
+                <calle></calle>
+                <numero>0</numero>
+                <localidad></localidad>
+                <codigoPostal></codigoPostal>
+                <lat>37.7513</lat>
+                <lng>-1.8514</lng>
+            </direccion>
+        </sitioInteres>
+        <sitioInteres>
+            <id>Venta_Ceferino</id>
+            <nombre>Venta Ceferino</nombre>
+            <descripcion>Venta Ceferino es un pueblo de lorca en la Región de Murcia situado en la pedanía de Almendricos.
+            Está dentro de la comarca del Alto Guadalentín y hay alrededor de 100-150 personas.Celebra sus fiestas
+            patronales el segundo fin de semana de agosto, en honor a san Cayetano, aunque llevan unos años sin
+            celebrarse por falta de dinero.
+            * Datos: Q6160347
+        </descripcion>
+            <rank>6</rank>
+            <direccion>
+                <calle></calle>
+                <numero>0</numero>
+                <localidad></localidad>
+                <codigoPostal></codigoPostal>
+                <lat>37.526</lat>
+                <lng>-1.721</lng>
+            </direccion>
+        </sitioInteres>
+        <sitioInteres>
+            <id>Totana</id>
+            <nombre>Totana</nombre>
+            <descripcion>Totana es un municipio y ciudad española perteneciente a la Región de Murcia. Situado en la comarca
+            del Bajo Guadalentín, es cabeza del partido judicial del mismo nombre y cuenta con 32 008 habitantes (INE
+            2019).​
+        </descripcion>
+            <foto>http://commons.wikimedia.org/wiki/Special:FilePath/Plaza-de-la-balsa-vieja_fotografia4.jpg?width=300
+        </foto>
+            <rank>98</rank>
+            <direccion>
+                <calle></calle>
+                <numero>0</numero>
+                <localidad></localidad>
+                <codigoPostal></codigoPostal>
+                <lat>37.7789</lat>
+                <lng>-1.5648</lng>
+            </direccion>
+        </sitioInteres>
+        <sitioInteres>
+            <id>Cueva_del_Rayo</id>
+            <nombre>Cueva del Rayo</nombre>
+            <descripcion>Cueva del Rayo es un hábitat prehistórico en cueva. Es uno de los testimonios más antiguos de
+            población documentados en el municipio de Puerto Lumbreras (Región de Murcia, España). Se emplaza en el
+            sector central de la Sierra de Enmedio, en la ladera alta de un relieve que presenta fuertes pendientes en
+            todas sus vertientes. Fue declarado bien catalogado por su relevancia cultural por resolución de fecha 20 de
+            mayo de 2010 (BORM nº 181 de 7 de agosto de 2010).​
+        </descripcion>
+            <rank>35</rank>
+            <direccion>
+                <calle></calle>
+                <numero>0</numero>
+                <localidad></localidad>
+                <codigoPostal></codigoPostal>
+                <lat>37.5252</lat>
+                <lng>-1.7831</lng>
+            </direccion>
+        </sitioInteres>
+        <sitioInteres>
+            <id>Aledo</id>
+            <nombre>Aledo</nombre>
+            <descripcion>Aledo es un municipio español situado en la Región de Murcia. Cuenta con 1022 habitantes (INE
+            2019).​
+        </descripcion>
+            <rank>96</rank>
+            <direccion>
+                <calle>Calle Fraga Iribarne</calle>
+                <numero>38</numero>
+                <localidad>Aledo</localidad>
+                <codigoPostal>30859</codigoPostal>
+                <lat>37.7974</lat>
+                <lng>-1.5737</lng>
+            </direccion>
+        </sitioInteres>
+    </sitios-de-interes>
+    <parking-movilidad-reducida>
+        <parking>
+            <direccion>C/Amaltea Hotel del Polígono de los Peñones</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7114953133709605</longitud>
+            <latitud>37.65498859455905</latitud>
+            <numValoraciones>15</numValoraciones>
+            <calificacionMedia>3.0</calificacionMedia>
+            <url>37.65498859455905,-1.7114953133709605</url>
+        </parking>
+        <parking>
+            <direccion>Aparcamiento Lorca Taller del Tiempo Castillo (C/Pilones)</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.711238856340401</longitud>
+            <latitud>37.677213510134884</latitud>
+        </parking>
+        <parking>
+            <direccion>Aparcamiento Lorca Taller del Tiempo Castillo(C/Pilones)</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7110095274696278</longitud>
+            <latitud>37.67719546566079</latitud>
+        </parking>
+        <parking>
+            <direccion>C/ Francisco de Goya altura Rotonda Instituto San Juan Bosco y Piscinas B  San Antonio</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7109548482544596</longitud>
+            <latitud>37.65958798517459</latitud>
+        </parking>
+        <parking>
+            <direccion>Aparcamiento Lorca Taller del Tiempo Castillo (C/Pilones)</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7109464955577778</longitud>
+            <latitud>37.67719758854033</latitud>
+        </parking>
+        <parking>
+            <direccion>Aparcamiento Lorca Taller del Tiempo Castillo(C/Pilones)</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7109321802854538</longitud>
+            <latitud>37.67721581345096</latitud>
+        </parking>
+        <parking>
+            <direccion>Aparcamiento Lorca Taller del Tiempo Castillo (C/Pilones)</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7107989740619587</longitud>
+            <latitud>37.6772145715744</latitud>
+        </parking>
+        <parking>
+            <direccion>Aparcamiento Lorca Taller del Tiempo Castillo (C/Pilones)</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.710778857494347</longitud>
+            <latitud>37.67723580036158</latitud>
+        </parking>
+        <parking>
+            <direccion>Aparcamiento Lorca Taller del Tiempo Castillo (C/Pilones)</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7107654464492725</longitud>
+            <latitud>37.677215633013894</latitud>
+        </parking>
+        <parking>
+            <direccion>Aparcamiento Lorca Taller del Tiempo Castillo (C/Pilones)</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7107386243591236</longitud>
+            <latitud>37.67721987877176</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Diego Pallarés Cacha, frente a Colegios La Viña</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/diego pallares Cacha la viña10 [600].JPG</foto>
+            <longitud>-1.7101394567139323</longitud>
+            <latitud>37.66228887955666</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Diego Pallarés Cachá, frente Colegios La Viña</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7100906372070312</longitud>
+            <latitud>37.66237752880791</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Paralela y junto Ctra. Granada,altura Concesionario Renault</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/paralela Ctra Granada (Renaul)03 [600].JPG</foto>
+            <longitud>-1.7097807112581904</longitud>
+            <latitud>37.65752668225392</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Tejedores con C/ Alfareria</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7096292972564697</longitud>
+            <latitud>37.661570138269596</latitud>
+        </parking>
+        <parking>
+            <direccion>CALLE AGRICULTORES, JUNTO AL SALÓN DE LA JUVENTUD</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7091036904320858</longitud>
+            <latitud>37.66105735313145</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Pintores n  5, La Viña</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7090150713920593</longitud>
+            <latitud>37.662004091869335</latitud>
+        </parking>
+        <parking>
+            <direccion>CALLE ALFARERIA, 18, INTERSECCIÓN CON C/. MODISTERIA</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7086636231345436</longitud>
+            <latitud>37.66282182873106</latitud>
+        </parking>
+        <parking>
+            <direccion>Calle Sastrería n  4</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7085912823677063</longitud>
+            <latitud>37.66246060301002</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Tejedores altura de C/Herrerias</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.707994360054272</longitud>
+            <latitud>37.66059499285875</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Sierra de Tercia, Polígono Los Peñones</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/sierra de tercia  pogl peñones06 [600].JPG</foto>
+            <longitud>-1.7078944477684672</longitud>
+            <latitud>37.65721135041452</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Sierra del Caño,Polígono Los Peñones (junto a Mercadona)</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/sierra del caño  pogl peñones05 [600].JPG</foto>
+            <longitud>-1.7078401330359156</longitud>
+            <latitud>37.65843020142125</latitud>
+        </parking>
+        <parking>
+            <direccion> Avda. La Vendimia esquina C/ Jardineros</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7077856999999312</longitud>
+            <latitud>37.66169982013002</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Guillermo Oliver, altura AA.VV. La Viña</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/Guillermo oliver AAVV la Viña11 [600].JPG</foto>
+            <longitud>-1.7076450023300822</longitud>
+            <latitud>37.66340148356989</latitud>
+        </parking>
+        <parking>
+            <direccion>Avenida de la Vendimia N 6</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/Avda vendimia  esquina jardineros09 [600].JPG</foto>
+            <longitud>-1.7076374509261996</longitud>
+            <latitud>37.66173833322063</latitud>
+        </parking>
+        <parking>
+            <direccion>Avda. La Vendimia altura Plaza del Trabajo</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/Avda vendimia altura plaza del trabajo08 [600].JPG</foto>
+            <longitud>-1.7070174343585904</longitud>
+            <latitud>37.66131662833141</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Albañilería esquina Plaza Los Aprendices</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.706905388152336</longitud>
+            <latitud>37.66232941867618</latitud>
+        </parking>
+        <parking>
+            <direccion>GUILLERMO OLIVER, FRENTE N  4</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.706864797677781</longitud>
+            <latitud>37.66295127987368</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Carpintería 7,altura Plaza Iglesia Cristo Rey</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/carpinteria juanto Plaza Cristo rey12 [600].JPG</foto>
+            <longitud>-1.7066203984863932</longitud>
+            <latitud>37.66266470376973</latitud>
+        </parking>
+        <parking>
+            <direccion>C/ RAMBLAS LAS CHATAS, 12</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7065689189790925</longitud>
+            <latitud>37.66365840058026</latitud>
+        </parking>
+        <parking>
+            <direccion>Avda.La Salud n  6</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/AVda la Salud 613 [600].JPG</foto>
+            <longitud>-1.7064693632294166</longitud>
+            <latitud>37.66331644591744</latitud>
+        </parking>
+        <parking>
+            <direccion>CALLE JUNTA Y PARALELA A RONDA SUR, RM-11 DE ACCESO A SUPERMERCADO ALDI</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7063633509483225</longitud>
+            <latitud>37.658066440005605</latitud>
+        </parking>
+        <parking>
+            <direccion>C/ ANDRES PICHICHI, 4</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7062601906006707</longitud>
+            <latitud>37.663537374271684</latitud>
+        </parking>
+        <parking>
+            <direccion>Carretera Granada, 119, 30800 Lorca, Murcia, España</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/Cra. granada esquina las palomas15 [600].JPG</foto>
+            <longitud>-1.7062219959091127</longitud>
+            <latitud>37.661735832439724</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Torrecilla (explanada)</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/calle torrecilla18 [600].JPG</foto>
+            <longitud>-1.7061483296997721</longitud>
+            <latitud>37.665588423768234</latitud>
+        </parking>
+        <parking>
+            <direccion>SAN AGUSTIN, esquina C/. Rambla Las Señoritas</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7058872582204003</longitud>
+            <latitud>37.66315624314537</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Cánovas Cobeño, N  36</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/Canovas Cobeño 2817 [600].JPG</foto>
+            <longitud>-1.7058163638063206</longitud>
+            <latitud>37.664134225114935</latitud>
+        </parking>
+        <parking>
+            <direccion>C/. MÚSICO PÉREZ DE TUDELA, FRENTE N  19, DOS PLAZAS MINUSVALIDOS</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7056114951064956</longitud>
+            <latitud>37.66405685814811</latitud>
+        </parking>
+        <parking>
+            <direccion>Músico Pérez de Tudela, nº 19</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7055775888077278</longitud>
+            <latitud>37.66406400666208</latitud>
+        </parking>
+        <parking>
+            <direccion>RM-11, altura caalle acceso Suoermercado ALDI</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7055614955536385</longitud>
+            <latitud>37.65839045185954</latitud>
+        </parking>
+        <parking>
+            <direccion>C/ Talleres altura del Centro de Salud la Viña</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7054724130280192</longitud>
+            <latitud>37.66119324556822</latitud>
+        </parking>
+        <parking>
+            <direccion>Ctra. Granada esquina C/. Las Palomas</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7054572337295895</longitud>
+            <latitud>37.662678772725585</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Ramblilla San Lázaro proximidad al n  103</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/Ramblilla san lazaro 8702 [600].JPG</foto>
+            <longitud>-1.7054522964604075</longitud>
+            <latitud>37.67356914718718</latitud>
+        </parking>
+        <parking>
+            <direccion>Ctra. Granada esquina C/. Las Palomas</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7054518693115597</longitud>
+            <latitud>37.66268938919913</latitud>
+        </parking>
+        <parking>
+            <direccion>Músico Pérez de Tudela, nº 20</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7054381139389534</longitud>
+            <latitud>37.664263592386156</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Proximidad al acceso Parador de Lorca</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7053470604319045</longitud>
+            <latitud>37.677381937417934</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Proximidad al acceso Parador de Lorca</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7053383432526061</longitud>
+            <latitud>37.677385652447754</latitud>
+        </parking>
+        <parking>
+            <direccion>C/ Talleres altura del Centro de Salud la Viña</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7053114804871257</longitud>
+            <latitud>37.66152873211182</latitud>
+        </parking>
+        <parking>
+            <direccion>C/ Talleres altura del Centro de Salud la Viña</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7053061160690959</longitud>
+            <latitud>37.661532978767205</latitud>
+        </parking>
+        <parking>
+            <direccion>C/ Talleres altura del Centro de Salud La Viña </direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7053061160690959</longitud>
+            <latitud>37.66154571873187</latitud>
+        </parking>
+        <parking>
+            <direccion>Travesía C/ Benemérita, altura AA.VV. Alfonso X El Sabio</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/Benemerita exquina AAVV alfonso X19 [600].JPG</foto>
+            <longitud>-1.7049587700016673</longitud>
+            <latitud>37.665935568058345</latitud>
+        </parking>
+        <parking>
+            <direccion>C/ Benemérita altura Cuartel Guardia Civil (BAJA POR MOTIVOS DE SEGURIDAD DESDE JUNIO 2017)</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7047963183853199</longitud>
+            <latitud>37.66576455411969</latitud>
+        </parking>
+        <parking>
+            <direccion>CALLE GUITARRISTA CANO, FRENTE N  13</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7045706291442289</longitud>
+            <latitud>37.66460749479029</latitud>
+        </parking>
+        <parking>
+            <direccion>Ctra. de Granada, frente a n  42</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7045604619629557</longitud>
+            <latitud>37.663826137193034</latitud>
+        </parking>
+        <parking>
+            <direccion>Ctra. de Granada, frente a n  42</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7045497331268962</longitud>
+            <latitud>37.66384736981044</latitud>
+        </parking>
+        <parking>
+            <direccion>C/ Tenor J. Romeu con C/Mateo Aleman B   Alfonso X </direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7044183048851664</longitud>
+            <latitud>37.664981182757366</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Ramblilla San Lázaro proximidad al n  87</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7043519202120478</longitud>
+            <latitud>37.673348887340744</latitud>
+        </parking>
+        <parking>
+            <direccion>Travesía Segunda Caída, junto al muro del Recinto Monte Calvario</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7041694290749092</longitud>
+            <latitud>37.67007682194063</latitud>
+        </parking>
+        <parking>
+            <direccion>C  Viejo del Puerto n  60</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/Ctra viejo del puerto 6016 [600].JPG</foto>
+            <longitud>-1.7041020404755045</longitud>
+            <latitud>37.66279141124736</latitud>
+        </parking>
+        <parking>
+            <direccion>TRAVESÍA SEGUNDA CAÍDA, JUNTO AL MURO RECINTO CALVARIO</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7039776718277153</longitud>
+            <latitud>37.67032915494777</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Perez Casas, altura Travesía Virgen de las Huertas(farmacia)</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/Lorenzo soto esquina Pérez casas [600].jpg</foto>
+            <longitud>-1.703830901110905</longitud>
+            <latitud>37.6663103122128</latitud>
+        </parking>
+        <parking>
+            <direccion>Cañada Sepulcro</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7038033075443764</longitud>
+            <latitud>37.67078698988429</latitud>
+        </parking>
+        <parking>
+            <direccion>Cañada Sepulcro</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7037590510956306</longitud>
+            <latitud>37.67076045159309</latitud>
+        </parking>
+        <parking>
+            <direccion>C/ Rambla Alta n 23</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7037404809509553</longitud>
+            <latitud>37.66816335532886</latitud>
+        </parking>
+        <parking>
+            <direccion>C/ Benemérita altura Cuartel Guardia Civil (BAJA POR MOTIVOS DE SEGURIDAD, DESDE JUNIO 2017)</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7037368458244373</longitud>
+            <latitud>37.665252859566685</latitud>
+        </parking>
+        <parking>
+            <direccion>CAÑADA SEPULCRO, PROXIMIDAD A ESPOLON Y ROMI, DOS PLAZAS MINUSVALIDOS</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7035104110450447</longitud>
+            <latitud>37.670658038680024</latitud>
+        </parking>
+        <parking>
+            <direccion>C/ Juan Bayonas n 12</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.703495755819631</longitud>
+            <latitud>37.669168792437375</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Segunda Caída con esquina C/ Baeza</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7033561398811798</longitud>
+            <latitud>37.66981473100533</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Joaquin Sorolla  N  14</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7032847687171397</longitud>
+            <latitud>37.66369108816479</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Jose María Zarauz,esquina con C/Soledad</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7030807263893166</longitud>
+            <latitud>37.67351639880793</latitud>
+        </parking>
+        <parking>
+            <direccion>C/José María Zarauz,esquina con C/Soledad</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7030431754631081</longitud>
+            <latitud>37.67350259940525</latitud>
+        </parking>
+        <parking>
+            <direccion>Cañada  Sepulcro frente a C/ La Horca</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.702975946987408</longitud>
+            <latitud>37.670270488537085</latitud>
+        </parking>
+        <parking>
+            <direccion>C/ Rambla Alta n  2</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7026188509262283</longitud>
+            <latitud>37.66802159832779</latitud>
+        </parking>
+        <parking>
+            <direccion>SEBASTIAN CLAVIJO</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7025272539672187</longitud>
+            <latitud>37.66911573737902</latitud>
+        </parking>
+        <parking>
+            <direccion>C/. CABEZO VELEZ, FRENTE N  4</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.702497521495843</longitud>
+            <latitud>37.67252770836562</latitud>
+        </parking>
+        <parking>
+            <direccion>C/ Cabezo de Vélez, frente nº 4</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7023830778709907</longitud>
+            <latitud>37.67247586721631</latitud>
+        </parking>
+        <parking>
+            <direccion>Camino Viejo del Puerto, 5, 30800 Lorca, Murcia, España</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7023264498730046</longitud>
+            <latitud>37.662782653752636</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Pérez Casas, frente a plaza San José</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7022938189102206</longitud>
+            <latitud>37.6685156280576</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Francisco Escobar Barberan (Colegio Ana Caicedo,proximidad Ong´s)</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7022034707911189</longitud>
+            <latitud>37.66285155351783</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Francisco Escobar Barberan (Colegio Ana Caicedo,proximidad Ong´s)</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7021995782852173</longitud>
+            <latitud>37.66286242006775</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Jeronimo Santa Fe, n  37</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/Jeronimo Santa Fe 7321 [600].JPG</foto>
+            <longitud>-1.701969271163989</longitud>
+            <latitud>37.667102041584776</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Ramblilla San Lázaro proximidad con C/Herradura</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.701917874868741</longitud>
+            <latitud>37.67295321951776</latitud>
+        </parking>
+        <parking>
+            <direccion>C/. PEREZ CASAS, 26</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7019155766864742</longitud>
+            <latitud>37.66954844605803</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Ramblilla San Lázaro proximidad con C/ Herradura</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.701866912897458</longitud>
+            <latitud>37.67289536771954</latitud>
+        </parking>
+        <parking>
+            <direccion>C/La Seda, junto a vado n 2294</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7018428444862366</longitud>
+            <latitud>37.66603628864882</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Redón n 40</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7017904613421706</longitud>
+            <latitud>37.67045570806724</latitud>
+        </parking>
+        <parking>
+            <direccion>C/. JERONIMO SANTA FE, 33</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7017563558197253</longitud>
+            <latitud>37.66737244549624</latitud>
+        </parking>
+        <parking>
+            <direccion>C/La Seda, junto a vado n  2294</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7017146381981547</longitud>
+            <latitud>37.6661277175637</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Palmera Uceta con C/Vieja de San Pedro</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7015792392520552</longitud>
+            <latitud>37.676370862582125</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Redón n  11</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/Redon 1126 [600].JPG</foto>
+            <longitud>-1.7015746963298852</longitud>
+            <latitud>37.67128488457308</latitud>
+        </parking>
+        <parking>
+            <direccion>C/. ESPIN ALTA, PROXIMIDAD 24</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.70131918406139</longitud>
+            <latitud>37.673430124156816</latitud>
+        </parking>
+        <parking>
+            <direccion>C/José Mouliaá,esquina C/Jerónimo Santa Fe</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/jose moulia22 [600].JPG</foto>
+            <longitud>-1.7013072711986297</longitud>
+            <latitud>37.66831023096861</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Nogalte,proximidad con C/Campoamor</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7005035006117168</longitud>
+            <latitud>37.67238854661934</latitud>
+        </parking>
+        <parking>
+            <direccion>CTRA. CARAVACA, esquina con C/. Los Limoneros.</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.7004696995383297</longitud>
+            <latitud>37.68720169477863</latitud>
+        </parking>
+        <parking>
+            <direccion>C/. CORREGIDOR CON C/. MOYA Y C/. LABERINTO</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.70029148032188</longitud>
+            <latitud>37.67715562205293</latitud>
+        </parking>
+        <parking>
+            <direccion>Camino Marín esquina C/Arquitecto Ortiz de la Jara</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/camino marin esquina  artuitecto Ortiz de la Jara33 [600].JPG</foto>
+            <longitud>-1.700174787731612</longitud>
+            <latitud>37.66620702395623</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Abenhalaj con Plaza del Negrito</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza negrito28 [600].JPG</foto>
+            <longitud>-1.6998955877315893</longitud>
+            <latitud>37.672286339611716</latitud>
+        </parking>
+        <parking>
+            <direccion>C/ Ministro Perez de Meca edif. Nuevo Ensanchez n 1 con C/Fray Diego de Cadiz</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6998665422584054</longitud>
+            <latitud>37.66763910305794</latitud>
+        </parking>
+        <parking>
+            <direccion>CTRA. CARAVACA,NÚMERO 21, RM-711</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.699866276517619</longitud>
+            <latitud>37.68573921362744</latitud>
+        </parking>
+        <parking>
+            <direccion>CTRA. CARAVACA, NÚMERO 42, RM-711 (UNA PLAZA DE RESERVA EN CADA BANDA DE LA CALLE)</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6998555515767035</longitud>
+            <latitud>37.68462694450581</latitud>
+        </parking>
+        <parking>
+            <direccion>C/ Ministro Perez de Meca edif. Nuevo Ensanchez n 1 con C/Fray Diego de Cadiz</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.699850449004316</longitud>
+            <latitud>37.66763804148145</latitud>
+        </parking>
+        <parking>
+            <direccion>CTRA. CARAVACA, 36, RM-711</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6996410089379688</longitud>
+            <latitud>37.68399014169898</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Álamo,proximidad al Excmo Ayuntamiento</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/Alamo (ayuntamiento)43 [600].JPG</foto>
+            <longitud>-1.6995983752854045</longitud>
+            <latitud>37.67632578982131</latitud>
+        </parking>
+        <parking>
+            <direccion>Ronda Sur, Centro Integral de Emergencias y Seguridad</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6995903286583598</longitud>
+            <latitud>37.65817167502685</latitud>
+        </parking>
+        <parking>
+            <direccion>CTRA. CARAVACA, NÚMERO 15, RM-711</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6995496356288498</longitud>
+            <latitud>37.683081626897575</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Arquitecto Ortiz de la Jara n 1</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6993892023426724</longitud>
+            <latitud>37.66754152312989</latitud>
+        </parking>
+        <parking>
+            <direccion>PERIODISTA ANGELA RUIZ, FRENTE A SOLAR APARCAMIENTO Y VÍA FÉRREA.</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6992544003147338</longitud>
+            <latitud>37.66664577690795</latitud>
+        </parking>
+        <parking>
+            <direccion>C/ Poeta Carlos Mellado altura Teatro Guerra</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6984919640667613</longitud>
+            <latitud>37.67286962088587</latitud>
+        </parking>
+        <parking>
+            <direccion>Cabezo Marines, altura del parque</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.698347124779957</longitud>
+            <latitud>37.68503714747435</latitud>
+        </parking>
+        <parking>
+            <direccion>Plaza Santiago (C/Don Juan II)</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/Plaza Santiago44 [600].JPG</foto>
+            <longitud>-1.6983201767559422</longitud>
+            <latitud>37.67706753015501</latitud>
+        </parking>
+        <parking>
+            <direccion>Plaza Camacho</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6982121128801282</longitud>
+            <latitud>37.6823016149367</latitud>
+        </parking>
+        <parking>
+            <direccion>Plaza Camacho</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.698200713491815</longitud>
+            <latitud>37.682288347851426</latitud>
+        </parking>
+        <parking>
+            <direccion>CAMINO MARIN, FRENTE N  22</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6981813662590244</longitud>
+            <latitud>37.66493447298267</latitud>
+        </parking>
+        <parking>
+            <direccion>Alameda de Cervantes n 7, (dos plazas)</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.698156522413342</longitud>
+            <latitud>37.67029662318577</latitud>
+        </parking>
+        <parking>
+            <direccion>C/. CARLOS MARIA BARBERAN, FRENTE CENTRO DESARROLLO LOCAL</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.698062781753606</longitud>
+            <latitud>37.668429835993706</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Actor Antonio Tudela con Plaza Artes Escénicas</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/ACtor Antonio Tudela30 [600].JPG</foto>
+            <longitud>-1.6979999095201492</longitud>
+            <latitud>37.66613777084813</latitud>
+        </parking>
+        <parking>
+            <direccion>C/. JOSE ESPINOSA POMARES, esquina Alameda Cervantes.</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6978967878357025</longitud>
+            <latitud>37.66987330967336</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Actor Ramón Meca</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6978743074964768</longitud>
+            <latitud>37.66621678055127</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Lope Gisbert,frente a Palacio Guevara</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/Lopez Gisbert fente palacio Guevara42 [600].JPG</foto>
+            <longitud>-1.697802636349934</longitud>
+            <latitud>37.674958096024746</latitud>
+        </parking>
+        <parking>
+            <direccion>Carril de Paco Reverte, 1</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/arcos de reverte (confirmar)50 [600].JPG</foto>
+            <longitud>-1.6977046920133034</longitud>
+            <latitud>37.68162563385115</latitud>
+        </parking>
+        <parking>
+            <direccion>C/. Carlos Maria  Barberan, junto n  9.</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/Alameda cervantes junto edificio puerta sol37 [600].JPG</foto>
+            <longitud>-1.6975458601189075</longitud>
+            <latitud>37.667564650464</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Marsilla,frente  a Plaza Ibreño</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6975332637716747</longitud>
+            <latitud>37.67812895104775</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Portijico, 31 con C/Mulero</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/portijico con mulero52 [600].JPG</foto>
+            <longitud>-1.697393740492771</longitud>
+            <latitud>37.6837716251983</latitud>
+        </parking>
+        <parking>
+            <direccion>Alameda Cervantes,  frente al n  15.</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6972372123032073</longitud>
+            <latitud>37.66832411350035</latitud>
+        </parking>
+        <parking>
+            <direccion> Alameda Rafael Méndez, 2, altura bloque H de urbanización La Isla, (dos plazas, tiempo max 2 horas)</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/Alameda  Rafael Mendez edificio H41 [600].JPG</foto>
+            <longitud>-1.69716943743435</longitud>
+            <latitud>37.669492722805</latitud>
+        </parking>
+        <parking>
+            <direccion>C/La Rambla, junto al Centro de Visitantes Lorca Taller del Tiempo</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.697158235634106</longitud>
+            <latitud>37.67969953900812</latitud>
+        </parking>
+        <parking>
+            <direccion>C/La Rambla, junto al Centro Visitantes Lorca Taller del Tiempo</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6971280607826884</longitud>
+            <latitud>37.6797414644525</latitud>
+        </parking>
+        <parking>
+            <direccion>Camino Marín con esquina Camino del Gato</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/camino marin squina camino del gato32 [600].JPG</foto>
+            <longitud>-1.697030352149568</longitud>
+            <latitud>37.66412885579094</latitud>
+        </parking>
+        <parking>
+            <direccion>Avenida Juan Carlos I, 31(promiximidad con C/Emilio García Navarro-Centro cultural)</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6970167491085704</longitud>
+            <latitud>37.67355428630244</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Tener Mario Gabarrón</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/Tenor Mario Gabarrón(duda)34 [600].JPG</foto>
+            <longitud>-1.696957069957989</longitud>
+            <latitud>37.664033154953565</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Santo Domingo,junto a Delegación de Hacienda</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/santo domingo HACIENDA46 [600].JPG</foto>
+            <longitud>-1.6969470116741832</longitud>
+            <latitud>37.67801347966294</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Tenor Mario Gabarrón</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/Tenor Mario Gabarrón(duda)34 [600].JPG</foto>
+            <longitud>-1.696937623942631</longitud>
+            <latitud>37.66401457646013</latitud>
+        </parking>
+        <parking>
+            <direccion>Plaza Juan Moreno, callejón La Merced junto a sede de Urbanismo (Calle Puente Alberca, 9)</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/URBANISMO47 [600].JPG</foto>
+            <longitud>-1.6968796055572284</longitud>
+            <latitud>37.67926518387289</latitud>
+        </parking>
+        <parking>
+            <direccion>Plaza Juan Moreno, callejón La Merced junot a Sede de Urbanismo (Calle Puente Alberca, 9)</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/URBANISMO47 [600].JPG</foto>
+            <longitud>-1.6968494307058108</longitud>
+            <latitud>37.679267837398264</latitud>
+        </parking>
+        <parking>
+            <direccion>C/, LOPE GISBERT, FRENTE A ANTIGUA COMISARIA (DOS RESERVAS)</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6967653741318123</longitud>
+            <latitud>37.67650093050946</latitud>
+        </parking>
+        <parking>
+            <direccion>Alameda Cervantes, frente n  21.</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6966594099258145</longitud>
+            <latitud>37.6673204545814</latitud>
+        </parking>
+        <parking>
+            <direccion>Plaza Real junto a Biblioteca Municipal (Travesía Eugenio Úbeda, 4)</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/SANTA ROSA DE LIMA parte por detras [600].jpg</foto>
+            <longitud>-1.6963364877315144</longitud>
+            <latitud>37.67705995518672</latitud>
+        </parking>
+        <parking>
+            <direccion>Plaza Real junto a Biblioteca Municipal (Travesía Eugenio Úbeda, 4)</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6963331349702457</longitud>
+            <latitud>37.6770636702326</latitud>
+        </parking>
+        <parking>
+            <direccion>Plaza Real junto a Biblioteca Municipal (Travesía Eugenio Úbeda, 3)</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6963060294824572</longitud>
+            <latitud>37.67706799686022</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Muso Valiente altura del Hotel Alameda</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6962980479002</longitud>
+            <latitud>37.67496177928279</latitud>
+        </parking>
+        <parking>
+            <direccion>Plaza de Carruajes,frente a servicios sociales(Renfe)</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6962824943907435</longitud>
+            <latitud>37.67220193333354</latitud>
+        </parking>
+        <parking>
+            <direccion>PINTOR EMILIANO ROJO, FRENTE AL CENTRO SALUD MENTAL</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.696226905267622</longitud>
+            <latitud>37.663205941179385</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Actor Ramón Meca</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6960577814411408</longitud>
+            <latitud>37.6654189862467</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Grecia</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.695959726983574</longitud>
+            <latitud>37.66523356405514</latitud>
+        </parking>
+        <parking>
+            <direccion>CALLEJON DE LOS FRAILES, frente al vado permanente 9040</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6955799857220424</longitud>
+            <latitud>37.67875116978846</latitud>
+        </parking>
+        <parking>
+            <direccion>Alameda de Cervantes, frente al n  44, junto y frente  al LILD. (dos reservas)</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.69557043306577</longitud>
+            <latitud>37.6659488792007</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Poeta Para Vico y Alameda de Cervantes (junto a lid´l)</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6955582979567225</longitud>
+            <latitud>37.66578906699628</latitud>
+        </parking>
+        <parking>
+            <direccion>Alameda de Cervantes, frente edif. Columbia.</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/Grecia36 [600].JPG</foto>
+            <longitud>-1.6955087507873259</longitud>
+            <latitud>37.66539302126519</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Grecia y Travesía Alam. Cervantes (C/Azahar)</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/Azahar38 [600].JPG</foto>
+            <longitud>-1.6953999063425726</longitud>
+            <latitud>37.66443505845046</latitud>
+        </parking>
+        <parking>
+            <direccion>RAFAEL SANCHEZ CAMPOY, FRENTE N  1</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6953203186205883</longitud>
+            <latitud>37.66322292741572</latitud>
+        </parking>
+        <parking>
+            <direccion>Travesía Ramón y Cajal, 5,frente a pasaje</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6951747420675929</longitud>
+            <latitud>37.67522346349787</latitud>
+        </parking>
+        <parking>
+            <direccion>Alameda de Cervantes ,junto N  61</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/Alameda cervantes junto edificio puerta sol37 [600].JPG</foto>
+            <longitud>-1.6951164707354565</longitud>
+            <latitud>37.66501919996648</latitud>
+        </parking>
+        <parking>
+            <direccion>RAFAEL SANCHEZ CAMPOY, 4</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6950881399027367</longitud>
+            <latitud>37.662814460437204</latitud>
+        </parking>
+        <parking>
+            <direccion>RAFAEL SANCHEZ CAMPOY, N  3</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6949872217885513</longitud>
+            <latitud>37.66287868996157</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Abellaneda,frente a rotonda con C/Prolongación C/Abellaneda</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/Calle aballaneda53 [600].JPG</foto>
+            <longitud>-1.694905674343886</longitud>
+            <latitud>37.68475683474146</latitud>
+        </parking>
+        <parking>
+            <direccion>ROTONDA B  SAN FERNANDO CON AVDA. SUTULLENA</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6948199190012474</longitud>
+            <latitud>37.662160483934514</latitud>
+        </parking>
+        <parking>
+            <direccion>Alameda de Cervantes  N  60, urbanización Las Palmeras</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6946697152964134</longitud>
+            <latitud>37.66408417758412</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Turbinto, 6,esquina C/Mayor</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.694589571775623</longitud>
+            <latitud>37.681965948743134</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Charco, n  12</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6945413411044683</longitud>
+            <latitud>37.681565440918696</latitud>
+        </parking>
+        <parking>
+            <direccion>Puerta principal Colegio San Cristobal (C/Pareja)</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6940804296733631</longitud>
+            <latitud>37.68528892026779</latitud>
+        </parking>
+        <parking>
+            <direccion>Explanada antiguas Lonjas Municipales (C/Carril de Caldereros, 45)</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/Explanada la Lonja49 [600].JPG</foto>
+            <longitud>-1.6935298256735223</longitud>
+            <latitud>37.678794830583854</latitud>
+        </parking>
+        <parking>
+            <direccion>Explanada antiguas Lonjas Municipales (C/Carril de Caldereros, 45)</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6935070268968957</longitud>
+            <latitud>37.6787805014544</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Poeta Para Vico n 15,frente a C/Océano Pacífico</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6927277920133292</longitud>
+            <latitud>37.66739093627948</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Tercera Edad (C/Miguel Ángel Blanco Garrido, 74), junto a centro de día de personas mayores</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6926863226540263</longitud>
+            <latitud>37.67717813106161</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Tercera Edad (C/Miguel Ángel Blanco Garrido, 74),junto a Centro de Día para Personas Mayores</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6926494422800715</longitud>
+            <latitud>37.677230141604866</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Tercera Edad (C/Miguel Ángel Blanco Garrido, 74),junto a Centro de día para Personas Mayores</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6926373723395045</longitud>
+            <latitud>37.67724234815571</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Tercera Edad (C/Miguel Ángel Blanco Garrido, 74),junto a Centro de día para Personas Mayores</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6926326784737284</longitud>
+            <latitud>37.67724924750955</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Tercera Edad (C/Miguel Ángel Blanco Garrido, 74),junto a Centro de día para Personas Mayores</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6926293257124598</longitud>
+            <latitud>37.67725030894859</latitud>
+        </parking>
+        <parking>
+            <direccion>Avda. Rafael Maroto, junto a Parque San Diego</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.692546914086165</longitud>
+            <latitud>37.68021000000002</latitud>
+        </parking>
+        <parking>
+            <direccion>C/ Huercal Overa</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6923733190143366</longitud>
+            <latitud>37.68104649307677</latitud>
+        </parking>
+        <parking>
+            <direccion>C/. HUERCAL OVERA, FRENTE A CENTRO SOCIAL</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6923451558196803</longitud>
+            <latitud>37.68095839809557</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Ortega Melgares (C/Caballón)</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/Ortega melgares-caballon58 [600].JPG</foto>
+            <longitud>-1.6923224245889514</longitud>
+            <latitud>37.68200063504356</latitud>
+        </parking>
+        <parking>
+            <direccion>C/ Huercal Overa</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6922325030410548</longitud>
+            <latitud>37.68052747414991</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Escultor Rodriguez La Rosa</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6921190227018315</longitud>
+            <latitud>37.68086027722533</latitud>
+        </parking>
+        <parking>
+            <direccion>AVDA. RAFAEL MAROTO, esquina c/. Huercal Overa</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6921177606437823</longitud>
+            <latitud>37.68042652460138</latitud>
+        </parking>
+        <parking>
+            <direccion>C/. ZAMBRANA, PROXIMIDAD N  6</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.69201249462563</longitud>
+            <latitud>37.6835868304269</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Mazarrón n 2</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6916903650296717</longitud>
+            <latitud>37.68085517919038</latitud>
+        </parking>
+        <parking>
+            <direccion>C/ lOS VOLUNTARIOS, proximidad con  Maria del Mar Marmol Ferri</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6916789490737756</longitud>
+            <latitud>37.68125269593026</latitud>
+        </parking>
+        <parking>
+            <direccion>Avda. Rafael Maroto, junto a Parque San Diego</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.691675196156325</longitud>
+            <latitud>37.6803628409607</latitud>
+        </parking>
+        <parking>
+            <direccion>C/. ORTEGA MELGARES-CABALLON N  32(20) </direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6916744144235942</longitud>
+            <latitud>37.68202875470318</latitud>
+        </parking>
+        <parking>
+            <direccion>C/ Los Voluntarios</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6916127742050548</longitud>
+            <latitud>37.68129470078461</latitud>
+        </parking>
+        <parking>
+            <direccion>AVDA. RAFAEL MAROTO, JUNTO A PARQUE SAN DIEGO, DOS PLAZAS RESERVA MINUSVALIDOS</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.691573272213759</longitud>
+            <latitud>37.68037133211595</latitud>
+        </parking>
+        <parking>
+            <direccion>Avda. Rafael Maroto, junto a Parque San Diego</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.69155181454164</longitud>
+            <latitud>37.68042227902704</latitud>
+        </parking>
+        <parking>
+            <direccion>Centro comercial San Diego</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6914015445358928</longitud>
+            <latitud>37.67892948644071</latitud>
+        </parking>
+        <parking>
+            <direccion>Centro comercial San Diego</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6913533955812454</longitud>
+            <latitud>37.679132997176026</latitud>
+        </parking>
+        <parking>
+            <direccion>Centro comercial San Diego</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6913425359375651</longitud>
+            <latitud>37.679129032187454</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Tomás de Arderius Sánchez Fortún, 43,esquina con Vereda Los Reales</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6912862834324187</longitud>
+            <latitud>37.67006981544042</latitud>
+        </parking>
+        <parking>
+            <direccion>Centro comercial San Diego</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6912567052490886</longitud>
+            <latitud>37.67899051777656</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Luis de Peralta  con esquina C/ Filibertos</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6906180122684873</longitud>
+            <latitud>37.681289827627126</latitud>
+        </parking>
+        <parking>
+            <direccion>C/ Luis de Peralta</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6906099656414426</longitud>
+            <latitud>37.68116564592231</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Juan Antonio Dimas, 3,junto a Centro de Salud San Diego</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6905834707863505</longitud>
+            <latitud>37.67968308724482</latitud>
+        </parking>
+        <parking>
+            <direccion>PLAZA CEREZUELA, PROXIMIDAD A CALLE SANDOVAL</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.690462262171062</longitud>
+            <latitud>37.68399438706912</latitud>
+        </parking>
+        <parking>
+            <direccion>C/. Horno Santa Quiteria, frente n  25.</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6902590240814561</longitud>
+            <latitud>37.67318639961891</latitud>
+        </parking>
+        <parking>
+            <direccion>AVDA. EUROPA, N  1</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6902128068542197</longitud>
+            <latitud>37.68067634695928</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Juan Antonio Dimas, 7, junto a IES Principe de Asturias</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.690189856613415</longitud>
+            <latitud>37.67888278416706</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Juan Antonio Dimas, 7,junto a IES Príncipe de Asturias</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.690163034523266</longitud>
+            <latitud>37.67882387557556</latitud>
+        </parking>
+        <parking>
+            <direccion>C/. CANAL DE SAN DIEGO, JUNTO A IGLESIA</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6901410990196837</longitud>
+            <latitud>37.6805457240412</latitud>
+        </parking>
+        <parking>
+            <direccion>C/ Cristo de la Sangre</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6900546085983</longitud>
+            <latitud>37.68169164504</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Cristo de la Sangre</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6899627429395423</longitud>
+            <latitud>37.681307956820866</latitud>
+        </parking>
+        <parking>
+            <direccion>Avda. Europa, frente C/ Cristo de la Sangre</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6898719691337192</longitud>
+            <latitud>37.680668649198935</latitud>
+        </parking>
+        <parking>
+            <direccion>C/ Canal San Diego, junto a residencia ancianos</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.689755222506733</longitud>
+            <latitud>37.68053234433048</latitud>
+        </parking>
+        <parking>
+            <direccion>AVDA. EUROPA, ESQUINA C/. Cristo de la Sangre, junto a BMN</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6897190832198703</longitud>
+            <latitud>37.68076417424566</latitud>
+        </parking>
+        <parking>
+            <direccion>Avenida Europa,n 6 (obras de remodelación)</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6896916362888987</longitud>
+            <latitud>37.68071317286207</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Cañada Morales, 12,frente Colegio Juan González</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/Colegio Juan Gonzalez54 [600].JPG</foto>
+            <longitud>-1.6895776424057658</longitud>
+            <latitud>37.6853226440455</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Cañada Morales, 12,frente a Colegio Juan González</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/Colegio Juan Gonzalez54 [600].JPG</foto>
+            <longitud>-1.689564901912945</longitud>
+            <latitud>37.68533803323469</latitud>
+        </parking>
+        <parking>
+            <direccion>Avda. Europa, altura oficina BMN</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6895205997527682</longitud>
+            <latitud>37.68079813867709</latitud>
+        </parking>
+        <parking>
+            <direccion>C/ Canal San Diego, junto a residencia ancianos</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6893689844085884</longitud>
+            <latitud>37.68049413420714</latitud>
+        </parking>
+        <parking>
+            <direccion>C/. CANAL DE SAN DIEGO, JUNTO A RESIDENCIA DE ANCIANOS SAN DIEGO</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6892134162857246</longitud>
+            <latitud>37.6804559240641</latitud>
+        </parking>
+        <parking>
+            <direccion>Puerta principal Hureto de la Rueda (C/Lorca 96)</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6890986951411833</longitud>
+            <latitud>37.67374234841194</latitud>
+        </parking>
+        <parking>
+            <direccion>Puerta principal Huerto de la Rueda (C/Lorca 96)</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6890926601708998</longitud>
+            <latitud>37.673711565219264</latitud>
+        </parking>
+        <parking>
+            <direccion>Carril Vírgen de las Huertas con C/Maestro Tomás</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.689079173627988</longitud>
+            <latitud>37.66508733032237</latitud>
+        </parking>
+        <parking>
+            <direccion>Complejo Deportivo Felipe VI</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.689073387110966</longitud>
+            <latitud>37.67713779632947</latitud>
+        </parking>
+        <parking>
+            <direccion>Complejo Deportivo Felipe VI</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6889821920044596</longitud>
+            <latitud>37.676679252570054</latitud>
+        </parking>
+        <parking>
+            <direccion>Complejo Deportivo Felipe VI</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6889607343323405</longitud>
+            <latitud>37.677116567514325</latitud>
+        </parking>
+        <parking>
+            <direccion>C/ Ministriles</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.688941102902163</longitud>
+            <latitud>37.68199238268193</latitud>
+        </parking>
+        <parking>
+            <direccion>Complejo Deportivo Felipe VI</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.688821259463566</longitud>
+            <latitud>37.676624057296806</latitud>
+        </parking>
+        <parking>
+            <direccion>C/. MINISTRILES, FRENTE EDIF. FRANCIA, B  SAN DIEGO</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6887855347792993</longitud>
+            <latitud>37.68201148736019</latitud>
+        </parking>
+        <parking>
+            <direccion>C/. RAMBLILLA TEJARES, PROXIMIDAD N  34, DOS RESERVAS</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.68868466270442</longitud>
+            <latitud>37.6833392523605</latitud>
+        </parking>
+        <parking>
+            <direccion>Avd. Paso Encarnado</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6886210086156552</longitud>
+            <latitud>37.681464248383136</latitud>
+        </parking>
+        <parking>
+            <direccion>Avd. Paso Encarnado</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6886183264066403</longitud>
+            <latitud>37.681473270101606</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Cuesta de Ferrer, altura dúplex frente almazara</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6885832134134944</longitud>
+            <latitud>37.67376658437324</latitud>
+        </parking>
+        <parking>
+            <direccion>c/. GABRIEL GÓMEZ MARTINEZ, (TIO PILLO)</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.688446324606275</longitud>
+            <latitud>37.67050167948156</latitud>
+        </parking>
+        <parking>
+            <direccion>Avda. Europa, altura N  21</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6881365799010837</longitud>
+            <latitud>37.68100192493905</latitud>
+        </parking>
+        <parking>
+            <direccion>C/ Asilo de San Diego, próximo N  1</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6881276000000298</longitud>
+            <latitud>37.68051145715437</latitud>
+        </parking>
+        <parking>
+            <direccion>C/. ASILO SAN DIEGO</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6881276000000298</longitud>
+            <latitud>37.680581509015745</latitud>
+        </parking>
+        <parking>
+            <direccion>AVDA. EUROPA, esquina  Avda. Paso Encarnado, junto Edif. Europa</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6880507492126071</longitud>
+            <latitud>37.681014661561846</latitud>
+        </parking>
+        <parking>
+            <direccion>c/. Rambla Buitrago con rotonda C/. Santa Quiteria.</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6873163096481676</longitud>
+            <latitud>37.67225607842343</latitud>
+        </parking>
+        <parking>
+            <direccion>CALLE CANAL DE SAN DIEGO, FRENTE A EDIF. TURQUIA (DOS PLAZAS)</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6871309387511824</longitud>
+            <latitud>37.68051734752703</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Teresa de Calcuta, edificio Murcia</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/Teresa de Carcuta esquina avda europa56 [600].JPG</foto>
+            <longitud>-1.6870194828206877</longitud>
+            <latitud>37.681288691312005</latitud>
+        </parking>
+        <parking>
+            <direccion>AVDA. EUROPA, JUNTO A PLAZA PUEBLO SAHARAGÜI</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6869752235868198</longitud>
+            <latitud>37.681179653338454</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Médico Antonio Pelegrín Medina,frente a IES n  6</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/Instituto nº 659 [600].JPG</foto>
+            <longitud>-1.6867854628212626</longitud>
+            <latitud>37.68671986327376</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Médico Antonio Pelegrín Medina, frente a IES n  6</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/Instituto nº 659 [600].JPG</foto>
+            <longitud>-1.686774733985203</longitud>
+            <latitud>37.68671349545241</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Padre Isidro, frente a Santuario Virgen de las Huertas, AMPLIADA TOTAL DOS PLAZAS</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6865911625656054</longitud>
+            <latitud>37.6670942137798</latitud>
+        </parking>
+        <parking>
+            <direccion>Camino Los Chaparros, 15,frente a farmacia Puente La Pía</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6865403901956597</longitud>
+            <latitud>37.665645916050714</latitud>
+        </parking>
+        <parking>
+            <direccion>C/. MEDICO ANTONIO PELEGRIN MEDINA ALTURA CENTRO DE FORMACION PROFESIONAL CAMPUS UNIVERSITARIO</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6863396821467</longitud>
+            <latitud>37.6832387073551</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Paseo de Guerra, 8</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/Paseo de Guerra57 [600].JPG</foto>
+            <longitud>-1.6852989792823792</longitud>
+            <latitud>37.68244240616959</latitud>
+        </parking>
+        <parking>
+            <direccion>AVDA. EUROPA, JUNTO AL N  42</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.684985189554278</longitud>
+            <latitud>37.6814980674892</latitud>
+        </parking>
+        <parking>
+            <direccion>Avda. De los Ángeles, 21</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/Avda. Los Angeles 2160 [600].JPG</foto>
+            <longitud>-1.6842220723628998</longitud>
+            <latitud>37.68451256915446</latitud>
+        </parking>
+        <parking>
+            <direccion>CAMINO PUENTE CHURRA (C  Molino La Sierra), esquina Avda. Europa</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6835040590158816</longitud>
+            <latitud>37.68187591717483</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Paseo de los Ángeles, 6,esquina C/Nicolás Bussy</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/Paseo Los Angeles 661 [600].JPG</foto>
+            <longitud>-1.6832810012233494</longitud>
+            <latitud>37.68391973865642</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Paseo de los Ángeles, 3,esquina C/Nicolás Bussy</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/Paseo Los Angeles 661 [600].JPG</foto>
+            <longitud>-1.6832803306710957</longitud>
+            <latitud>37.68392292268709</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Jerónimo Quijano, n 2</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.682543088343209</longitud>
+            <latitud>37.68472440666051</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Comunidad Valenciana</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6823726975243105</longitud>
+            <latitud>37.682716519684035</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Transformador, n  5</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6821341552080185</longitud>
+            <latitud>37.6839167110827</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Transformador altura del AA.VV. B  Apolonia</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6819489228228122</longitud>
+            <latitud>37.68294121090367</latitud>
+        </parking>
+        <parking>
+            <direccion>C/Transformador altura del AA.VV. B  Apolonia</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.681946911166051</longitud>
+            <latitud>37.6829369654732</latitud>
+        </parking>
+        <parking>
+            <direccion>Avda. Fuerzas Armadas, 55-57,frente C/Fuente del Oro</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.680671877857776</longitud>
+            <latitud>37.68296832841182</latitud>
+        </parking>
+        <parking>
+            <direccion>Avda.Fuerzas Armadas, 52, frente C/Fuente del Oro</direccion>
+            <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
+            <longitud>-1.6806410324541048</longitud>
+            <latitud>37.68297363519758</latitud>
+        </parking>
+    </parking-movilidad-reducida>
+</ciudad>

@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sitios-de-interes>
+	<sitioInteres>
+		<nombre>Palacio de los Condes de San Julián</nombre>
+		<descripcion>El palacio de los Condes de San Julián es una casa
+			solariega situada en la ciudad de Lorca (Región de Murcia, España)
+			cuyos orígenes se remontan al siglo XVII, aunque su apariencia
+			externa está alterada por modificaciones realizadas en el siglo XVIII
+			otorgándole aspecto de fortaleza, y neomudéjares (...)</descripcion>
+		<rank>21</rank>
+		<direccion>
+			<calle>Avenida Juan Carlos I</calle>
+			<numero>2</numero>
+			<localidad>San Mateo</localidad>
+			<codigoPostal>30800</codigoPostal>
+			<lat>37.6713</lat>
+			<lng>-1.6988</lng>
+		</direccion>
+	</sitioInteres>
+	<sitioInteres>
+		<nombre>Estación de Lorca-Sutullena</nombre>
+		<descripcion>Lorca-Sutullena es, junto a Lorca-San Diego una de las
+			dos estaciones de ferrocarril de la ciudad española de Lorca, en la
+			Región de Murcia. Está situada junto a la plaza de Carruajes, próxima
+			al centro urbano y junto a la plaza de Toros de Sutullena (...)
+		</descripcion>
+		<rank>89</rank>
+		<direccion>
+			<calle>Avenida Periodista Lopez Barne</calle>
+			<numero>10</numero>
+			<localidad>San Mateo</localidad>
+			<codigoPostal>30800</codigoPostal>
+			<lat>37.6719</lat>
+			<lng>-1.6961</lng>
+		</direccion>
+	</sitioInteres>
+	<sitioInteres>
+		<nombre>Colegiata de San Patricio</nombre>
+		<descripcion>La antigua colegiata de San Patricio de Lorca (aunque
+			comúnmente sigue siendo llamada colegiata de San Patricio), es un
+			edificio de estilo renacentista declarado Monumento
+			Histórico-Artístico Nacional por decreto del 27 de enero de 1941.​ La
+			Colegiata es la piedra angular del conjunto monumental de la Plaza de
+			España, junto al Ayuntamiento, el Palacio del Corregidor y las Salas
+			Capitulares. Esta Colegiata es la única en España que se encuentra
+			bajo la advocación de San Patricio. La dedicación al santo irlandés,
+			tiene su origen en la batalla de Los Alporchones, librada el 17 de
+			marzo de 1452 (día de San Patricio), y que enfrentó a los habitantes
+			de la ciudad y de otras partes del antiguo reino de Murcia con
+			huestes musulmanas procedentes de Granada que habían asolado la
+			comarca de Cartagena. Las obras comenzaron, por bula del papa
+			Clemente VII, en 1533 sobre la vieja iglesia de San Jorge. La
+			construcción, no exenta de problemas, se dilató hasta 1780 siguiendo
+			el proyecto de Jerónimo Quijano, maestro de las Obras del Obispado de
+			Cartagena. Concebida con aires catedralicios, su interior se articula
+			en tres naves, doce capillas laterales en los contrafuertes, coro y
+			trascoro, girola con capillas radiales y torre-campanario en la
+			cabecera. También es de destacar el elevado crucero.</descripcion>
+		<rank>30</rank>
+		<direccion>
+			<calle>Calle Abad De Los Arcos</calle>
+			<numero>2</numero>
+			<localidad>Parroquias Altas</localidad>
+			<codigoPostal>30800</codigoPostal>
+			<lat>37.6775</lat>
+			<lng>-1.6994</lng>
+		</direccion>
+	</sitioInteres>
+	<sitioInteres>
+		<nombre>Iglesia de Santiago (Lorca)</nombre>
+		<descripcion>La iglesia de Santiago de Lorca, es un templo barroco que
+			tiene como origen previo a la iglesia una ermita del siglo XV en
+			honor al mismo santo. Esa ermita fue ubicada donde, según cuenta la
+			tradición, había predicado el apóstol (...)</descripcion>
+		<rank>36</rank>
+		<direccion>
+			<calle>Calle Villaescusa</calle>
+			<numero>1</numero>
+			<localidad>Santiago</localidad>
+			<codigoPostal>30800</codigoPostal>
+			<lat>37.6772</lat>
+			<lng>-1.6981</lng>
+		</direccion>
+	</sitioInteres>
+	<sitioInteres>
+		<nombre>Castillo de Lorca</nombre>
+		<descripcion>El Castillo de Lorca (Murcia, España) es una fortaleza de
+			origen medieval construida entre los siglos IX y XV. Comprende una
+			serie de estructuras defensivas que, durante la Edad Media,
+			convirtieron a la ciudad y a su fortaleza en un punto inexpugnable
+			del sureste peninsular. El castillo de Lorca fue un bastión clave en
+			las contiendas entre cristianos y musulmanes en la frontera de
+			Granada. Se encuentra catalogado como Bien de Interés Cultural​ y
+			dentro de la delimitación del conjunto histórico-artístico de
+			Lorca.​​ Por su extensión, 640 metros de largo por unos 120 metros en
+			su punto más ancho, es uno de los castillos más grandes de España.
+		</descripcion>
+		<foto>http://commons.wikimedia.org/wiki/Special:FilePath/Castillo_de_Lorca1.jpg?width=300
+		</foto>
+		<rank>83</rank>
+		<direccion>
+			<calle />
+			<numero>0</numero>
+			<localidad />
+			<codigoPostal />
+			<lat>37.6775</lat>
+			<lng>-1.7058</lng>
+		</direccion>
+	</sitioInteres>
+	<sitioInteres>
+		<nombre>Museo Arqueológico Municipal de Lorca</nombre>
+		<descripcion>El museo Arqueológico Municipal de Lorca (Murcia),
+			España, fue fundado en marzo de 1992 y se encuentra en la plaza de
+			Juan Moreno. El Ayuntamiento de Lorca es el encargado de la
+			titularidad y gestión del museo. El museo nació con el fin de un
+			mejor desarrollo cultural de Lorca y la comarca. (...)</descripcion>
+		<rank>70</rank>
+		<direccion>
+			<calle>Plaza Don Juan Moreno</calle>
+			<numero>12</numero>
+			<localidad>Santiago</localidad>
+			<codigoPostal>30800</codigoPostal>
+			<lat>37.6785</lat>
+			<lng>-1.6966</lng>
+		</direccion>
+	</sitioInteres>
+	<sitioInteres>
+		<nombre>Lorca</nombre>
+		<descripcion>Lorca es una ciudad y municipio español perteneciente a
+			la Región de Murcia, situada en la comarca del Alto Guadalentín, en
+			el sureste de la península ibérica. Es la tercera población en
+			importancia de la Región de Murcia tras Murcia y Cartagena, con 94
+			404 habitantes (INE 2019); de ellos, 60 914 habitantes corresponden
+			al casco urbano​ y el resto a sus numerosas pedanías, distribuidas a
+			lo largo y ancho de los 1 675 km² de término municipal,​ el segundo
+			más extenso de España tras el de Cáceres. Lorca es conocida por su
+			castillo, su arquitectura barroca y sus procesiones de Semana Santa,
+			declaradas fiesta de interés turístico internacional. Gracias a su
+			denso patrimonio heráldico es también llamada «la ciudad de los cien
+			escudos», nombre que le otorgó el antiguo alcalde José Antonio
+			Gallego,​​ mientras que de su nombre original (Eliocroca) toma el
+			título de ciudad del sol.​​​Su casco antiguo y el recinto del
+			castillo,​ fueron declarados conjunto histórico-artístico el 5 de
+			marzo del 1964,​ siendo el primero de la Región de Murcia con esta
+			distinción. ​​</descripcion>
+		<rank>100</rank>
+		<direccion>
+			<calle>Alameda Poeta Para Vico</calle>
+			<numero>3</numero>
+			<localidad>Santiago</localidad>
+			<codigoPostal>30800</codigoPostal>
+			<lat>37.6798</lat>
+			<lng>-1.6944</lng>
+		</direccion>
+	</sitioInteres>
+	<sitioInteres>
+		<nombre>Terremoto de Lorca de 2011</nombre>
+		<descripcion>El terremoto de Lorca fue un sismo de magnitud 5.1 Mw
+			(Magnitud de momento) el 11 de mayo de 2011, tuvo una intensidad
+			Mercalli VIII en la zona epicentral y sacudió principalmente a la
+			localidad de Lorca, en la Región de Murcia, España, a las 18:47 hora
+			local (16:47 UTC).​ Su epicentro estaba localizado en la Falla de
+			Alhama de Murcia (FAM) y sus efectos se sintieron en toda la Región
+			de Murcia. Tuvo una magnitud de 5,1 ​​ en la escala de magnitud de
+			momento.​ Fue precedido por un seísmo premonitorio de 4,5 sucedido a
+			las 17:05 hora local de ese mismo día.​​El movimiento sísmico fue
+			sentido también en las provincias de Almería, Albacete, Granada,
+			Jaén, Málaga, Alicante, Ciudad Real y algunas zonas de la ciudad de
+			Madrid, donde el tipo de suelo amplifica los movimientos en ciertos
+			barrios.​ Múltiples réplicas se produjeron​ después del principal de
+			las 18:47, si bien la de las 22:37, hora local, fue la de mayor
+			magnitud, con 3,9 en la escala de magnitud de momento, y que pudo
+			sentirse.​ La Región de Murcia, en la que se encuentra Lorca, es la
+			zona sismológica más activa de España, si bien esta localidad,
+			concretamente, no está entre las de mayor peligrosidad dentro de
+			ella.​</descripcion>
+		<foto>http://commons.wikimedia.org/wiki/Special:FilePath/Lorca_earthquake.jpg?width=300
+		</foto>
+		<rank>97</rank>
+		<direccion>
+			<calle />
+			<numero>0</numero>
+			<localidad />
+			<codigoPostal />
+			<lat>37.699</lat>
+			<lng>-1.673</lng>
+		</direccion>
+	</sitioInteres>
+	<sitioInteres>
+		<nombre>Estadio Francisco Artés Carrasco</nombre>
+		<descripcion>El Estadio Municipal Francisco Artés Carrasco es el
+			estadio municipal de la pedanía de La Hoya. El CF Lorca Deportiva y
+			La Hoya Lorca CF disputan sus partidos como locales en este recinto.
+			Hasta 2010 fue el estadio del Lorca Deportiva CF. También jugó de
+			2010 a 2012 el Lorca Atlético CF (...)</descripcion>
+		<rank>85</rank>
+		<direccion>
+			<calle />
+			<numero>0</numero>
+			<localidad />
+			<codigoPostal />
+			<lat>37.6388</lat>
+			<lng>-1.7351</lng>
+		</direccion>
+	</sitioInteres>
+	<sitioInteres>
+		<nombre>Acueducto de los Diecisiete Arcos</nombre>
+		<descripcion>El Acueducto de los Diecisiete Arcos es una obra
+			hidráulica ubicada en el término municipal de Lorca (Murcia). El
+			acueducto, que cruza la rambla del mismo nombre o rambla de Romí,
+			forma parte de la Real Acequia de Alcalá, que nace en el Partidor de
+			la Mina y que por un trazado de 7 km lleva el agua al Heredamiento de
+			Sutullena.​ La Real Acequia de Alcalá, de origen árabe, fue renovada
+			entre los años 1785 y 1791 debido a la construcción de los pantanos
+			de Puentes y Valdeinfierno. Es en esta época cuando se construye el
+			acueducto que sustituye a uno precedente de veintinueve arcos, que
+			regularmente experimentaba fuertes deterioros causados por las
+			fuertes avenidas.​ El proyecto y la dirección de la obra corrieron a
+			cargo del arquitecto .​</descripcion>
+		<rank>18</rank>
+		<direccion>
+			<calle />
+			<numero>0</numero>
+			<localidad />
+			<codigoPostal />
+			<lat>37.6925</lat>
+			<lng>-1.7641</lng>
+		</direccion>
+	</sitioInteres>
+	<sitioInteres>
+		<nombre>Pantano de Puentes</nombre>
+		<descripcion>El pantano o embalse de Puentes está situado en la
+			pedanía de La Tova, perteneciente al municipio español de Lorca, en
+			la Región de Murcia. La presa se halla situada en el río Guadalentín
+			y tiene una doble finalidad, embalsar agua para el abastecimiento y
+			mitigar los efectos de las riadas y avenidas.</descripcion>
+		<rank>60</rank>
+		<direccion>
+			<calle />
+			<numero>0</numero>
+			<localidad />
+			<codigoPostal />
+			<lat>37.7347</lat>
+			<lng>-1.8193</lng>
+		</direccion>
+	</sitioInteres>
+	<sitioInteres>
+		<nombre>Puerto Lumbreras</nombre>
+		<descripcion>Puerto Lumbreras es un municipio español de la Región de
+			Murcia. Se encuentra ubicado al suroeste de la región, a orillas de
+			la Rambla Nogalte, en la comarca del Alto Guadalentín, y lindando con
+			la provincia de Almería. Cuenta con una población de 15 394
+			habitantes (INE 2019).​</descripcion>
+		<rank>97</rank>
+		<direccion>
+			<calle />
+			<numero>0</numero>
+			<localidad />
+			<codigoPostal />
+			<lat>37.5667</lat>
+			<lng>-1.8167</lng>
+		</direccion>
+	</sitioInteres>
+	<sitioInteres>
+		<nombre>Cueva del Rayo</nombre>
+		<descripcion>Cueva del Rayo es un hábitat prehistórico en cueva. Es
+			uno de los testimonios más antiguos de población documentados en el
+			municipio de Puerto Lumbreras (Región de Murcia, España). Se emplaza
+			en el sector central de la Sierra de Enmedio, en la ladera alta de un
+			relieve que presenta fuertes pendientes en todas sus vertientes. Fue
+			declarado bien catalogado por su relevancia cultural por resolución
+			de fecha 20 de mayo de 2010 (BORM nº 181 de 7 de agosto de 2010).​
+		</descripcion>
+		<rank>52</rank>
+		<direccion>
+			<calle />
+			<numero>0</numero>
+			<localidad />
+			<codigoPostal />
+			<lat>37.5252</lat>
+			<lng>-1.7831</lng>
+		</direccion>
+	</sitioInteres>
+	<sitioInteres>
+		<nombre>Aledo</nombre>
+		<descripcion>Aledo es un municipio español situado en la Región de
+			Murcia. Cuenta con 1022 habitantes (INE 2019).​</descripcion>
+		<rank>92</rank>
+		<direccion>
+			<calle>Calle Fraga Iribarne</calle>
+			<numero>38</numero>
+			<localidad>Aledo</localidad>
+			<codigoPostal>30859</codigoPostal>
+			<lat>37.7974</lat>
+			<lng>-1.5737</lng>
+		</direccion>
+	</sitioInteres>
+	<sitioInteres>
+		<nombre>Observatorio Astronómico de Cabezo de la Jara</nombre>
+		<descripcion>El Observatorio Astronómico de Cabezo de la Jara se
+			localiza a 7 km de Puerto Lumbreras (Región de Murcia), en el paraje
+			de Cabezo de la Jara junto al Albergue Juvenil y el Centro de
+			Interpretación de la Naturaleza (...)</descripcion>
+		<rank>50</rank>
+		<direccion>
+			<calle />
+			<numero>0</numero>
+			<localidad />
+			<codigoPostal />
+			<lat>37.5601</lat>
+			<lng>-1.8746</lng>
+		</direccion>
+	</sitioInteres>
+</sitios-de-interes>

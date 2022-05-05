@@ -1,0 +1,423 @@
+
+[
+    {
+        "descripcion": "La Santa Iglesia Catedral Basílica de la Encarnación es la catedral de Málaga, España. Situada enfrente de la plaza del obispo en Málaga, el templo es considerada una de las joyas renacentistas más valiosas de Andalucía (...)",
+        "direccion": {
+            "calle": "Calle Molina Lario",
+            "codigo_postal": "29015",
+            "lat": 36.720042,
+            "lng": -4.42012,
+            "localidad": "Málaga",
+            "numero": 9
+        },
+        "nombre": "Catedral de Málaga",
+        "photo": null,
+        "rank": 91
+    },
+    {
+        "descripcion": "Se conoce como la toma de Málaga al asedio llevado a cabo en 1487 mediante el cual los Reyes Católicos conquistaron la ciudad de Málaga a los musulmanes en el marco de la Guerra de Granada. El asedio fue un largo evento de unos cuatro meses de duración y supuso un episodio sangriento en la guerra (...)",
+        "direccion": {
+            "calle": "Calle Molina Lario",
+            "codigo_postal": "29015",
+            "lat": 36.719,
+            "lng": -4.42,
+            "localidad": "Málaga",
+            "numero": 22
+        },
+        "nombre": "Toma de Málaga (1487)",
+        "photo": null,
+        "rank": 87
+    },
+    {
+        "descripcion": "El Distrito Centro o Distrito 1 es uno de los diez distritos en que está dividida administrativamente la ciudad de Málaga. En ocasiones también es llamado distrito Málaga-Centro. Como su nombre indica, el distrito 1 está situado en el centro de la ciudad (...)",
+        "direccion": {
+            "calle": "Plaza Constitucion",
+            "codigo_postal": "29015",
+            "lat": 36.72113,
+            "lng": -4.42155,
+            "localidad": "Málaga",
+            "numero": 12
+        },
+        "nombre": "Distrito Centro (Málaga)",
+        "photo": null,
+        "rank": 92
+    },
+    {
+        "descripcion": "El antiguo Convento de San Agustín es un edificio situado en el Centro Histórico de la ciudad de Málaga, España. Se localiza en la Calle San Agustín junto al Palacio de Buenavista, sede del Museo Picasso Málaga.  (...)",
+        "direccion": {
+            "calle": "Calle San Agustin",
+            "codigo_postal": "29015",
+            "lat": 36.721202777777776,
+            "lng": -4.418886111111111,
+            "localidad": "Málaga",
+            "numero": 6
+        },
+        "nombre": "Convento de San Agustín (Málaga)",
+        "photo": null,
+        "rank": 63
+    },
+    {
+        "descripcion": "El Museo Revello de Toro, situado en la casa-taller de Pedro de Mena, es una pinacoteca de la ciudad de Málaga, España. Está situado en calle Císter, en el centro histórico de la ciudad, en la que fue la vivienda de Pedro de Mena durante su estancia en Málaga. Como su nombre indica, el museo está dedicado al pintor malagueño Félix Revello de Toro. Inaugurado el 27 de noviembre de 2010, el museo contiene una colección de 132 obras del artista, de las que se exponen 117 al mismo tiempo. Las obras se organizan de acuerdo a criterios temáticos y técnicos. Así, se agrupan las obras de carácter íntimo con bodegones y retratos familiares por un lado, y por otro, las pinturas femeninas por las que es conocido sobre todo el artista. Otra sala contiene bocetos y dibujos. El museo cuenta asimismo con una sala de exposiciones temporales, donde se expone una colección de carteles.​",
+        "direccion": {
+            "calle": "Calle Afligidos",
+            "codigo_postal": "29015",
+            "lat": 36.720454,
+            "lng": -4.418385,
+            "localidad": "Málaga",
+            "numero": 2
+        },
+        "nombre": "Museo Revello de Toro",
+        "photo": null,
+        "rank": 20
+    },
+    {
+        "descripcion": "El palacio de los Condes de Buenavista de la Victoria, sito en la calle San Agustín de la ciudad española de Málaga, fue declarado Monumento Nacional en 1939. Se trata de un edificio de la arquitectura civil española del siglo XVI, construido hacia 1530-1540 por  y sede del Museo Picasso Málaga. Originalmente fue el palacio residencial de los Condes de Buenavista de la Victoria, de ahí su denominación. Es el más importante ejemplo de arquitectura civil realizada tras la conquista de Málaga por los Reyes Católicos. Su arquitectura es renacentista, con fachada plateresca y soluciones mudéjares. Consta de sótano, baja y primera planta, con una fachada plateresca maciza de aparejo de sillares, donde se trabajan con sencillez pero de forma rotunda los elementos decorativos que enmarcan los huecos, de grandes dimensiones y asimétricos. La puerta principal de acceso fue diseñada junto con el balcón superior y el interior se organiza en torno a un patio con doble galería. A través de la escalera, al fondo a la derecha se accede a la planta primera que repite el esquema de planta baja. La torre del edificio posee guardapolvo y arcas bajo alfiz en su parte superior, con aparejo de sillares de grandes dimensiones. El Palacio se convirtió durante el siglo XX en la sede del Museo de Bellas Artes de Málaga, a raíz del Real Decreto de 1913 que reorganizaba este tipo de museos. Alquilado durante años por su propietario al Estado, en 1996 fue designado como sede del Museo Picasso Málaga y, tras la inauguración de éste en 2003, en 2009 se aprobó la cesión del edificio, que era propiedad de la administración autonómica, a la fundación resultante de la fusión de la Fundación Picasso y la \"Fundación Paul, Christine y Bernard Ruiz-Picasso\".​",
+        "direccion": {
+            "calle": "Calle San Agustin",
+            "codigo_postal": "29015",
+            "lat": 36.72166666666667,
+            "lng": -4.418333333333334,
+            "localidad": "Málaga",
+            "numero": 8
+        },
+        "nombre": "Palacio de los Condes de Buenavista",
+        "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/MPM_2.jpg?width=300",
+        "rank": 85
+    },
+    {
+        "descripcion": "El Museo Picasso Málaga es una de los dos pinacotecas dedicadas a Pablo Picasso sitas en su ciudad natal Málaga (España), junto a la Fundación Picasso Museo Casa Natal. Las doscientas ochenta y cinco obras que reúne la colección MPM abarcan las innovaciones revolucionarias de Picasso, así como la (...)",
+        "direccion": {
+            "calle": "Calle San Agustin",
+            "codigo_postal": "29015",
+            "lat": 36.72166666666667,
+            "lng": -4.418333333333334,
+            "localidad": "Málaga",
+            "numero": 8
+        },
+        "nombre": "Museo Picasso Málaga",
+        "photo": null,
+        "rank": 89
+    },
+    {
+        "descripcion": "El Museo Carmen Thyssen Málaga es una pinacoteca situada en la ciudad española de Málaga, compuesta por fondos de la colección Carmen Thyssen-Bornemisza.  (...)",
+        "direccion": {
+            "calle": "Calle Compañia",
+            "codigo_postal": "29008",
+            "lat": 36.72138888888889,
+            "lng": -4.422777777777778,
+            "localidad": "Málaga",
+            "numero": 6
+        },
+        "nombre": "Museo Carmen Thyssen Málaga",
+        "photo": null,
+        "rank": 83
+    },
+    {
+        "descripcion": "El Museo de Málaga es la denominación genérica que la Junta de Andalucía ha dado a un centro expositivo de la ciudad española de Málaga, que da cabida a las colecciones de dos insignes instituciones museísticas malacitanas como son el Museo de Bellas Artes de Málaga y del Museo Arqueológico (...)",
+        "direccion": {
+            "calle": "Plaza Aduana",
+            "codigo_postal": "29015",
+            "lat": 36.720087,
+            "lng": -4.417401,
+            "localidad": "Málaga",
+            "numero": 3
+        },
+        "nombre": "Museo de Málaga",
+        "photo": null,
+        "rank": 83
+    },
+    {
+        "descripcion": "El Palacio de la Aduana de Málaga es un edificio proyectado en 1788, destinado en su uso inicial a atender el tráfico del puerto. Situado junto al Parque de Málaga, actualmente es la sede del Museo de Málaga.  (...)",
+        "direccion": {
+            "calle": "Travesia Pintor Nogales",
+            "codigo_postal": "29016",
+            "lat": 36.719973,
+            "lng": -4.417172,
+            "localidad": "Málaga",
+            "numero": 2
+        },
+        "nombre": "Palacio de la Aduana (Málaga)",
+        "photo": null,
+        "rank": 69
+    },
+    {
+        "descripcion": "La Calle de Camas es una vía ubicada en el Centro Histórico de la ciudad española de Málaga. Es una de las más antiguas de Málaga​ y discurre a lo largo de 120 metros en dirección Norte-Sur partiendo de la Calle Cisneros y desembocando en la Calle Marqués. Por el lado Este se encuentran los accesos a las calles Castillo de Sohail y Calderón de la Barca.​",
+        "direccion": {
+            "calle": "Calle Camas",
+            "codigo_postal": "29005",
+            "lat": 36.72027777777778,
+            "lng": -4.424444444444445,
+            "localidad": "Málaga",
+            "numero": 5
+        },
+        "nombre": "Calle Camas",
+        "photo": null,
+        "rank": 52
+    },
+    {
+        "descripcion": "La Universidad de Málaga o, según sus siglas, UMA, es una institución de enseñanza superior y titularidad pública fundada en 1972. En ella estudian más de 36 000 alumnos y trabajan cerca de 2 400 profesores, y se ofertan 62 titulaciones de grado y 120 de posgrado, entre programas de doctorado, (...)",
+        "direccion": {
+            "calle": "Calle Alcalde Pedro Luis Alonso",
+            "codigo_postal": "29016",
+            "lat": 36.72,
+            "lng": -4.416111111111111,
+            "localidad": "Málaga",
+            "numero": 2
+        },
+        "nombre": "Universidad de Málaga",
+        "photo": null,
+        "rank": 94
+    },
+    {
+        "descripcion": "La alcazaba (del árabe, القصبة al-qaṣbah «la ciudadela») era una construcción o recinto fortificado de carácter urbano, cuya función era servir de residencia a un gobernador​ para defender presumiblemente un lugar determinado y sus contornos, albergando una guarnición que, con frecuencia, conformaba un pequeño barrio militar con viviendas y servicios, constituyendo una ciudadela.​ Solían estar asociadas a un alcázar o castillo situado en uno de sus extremos, aunque este era independiente de la propia alcazaba y del resto de la ciudad, y en caso de asedio, las poblaciones de los núcleos urbanos donde se asentaban, buscaban refugio tras las murallas de dichas alcazabas.",
+        "direccion": {
+            "calle": "Calle Guillen Sotelo",
+            "codigo_postal": "29016",
+            "lat": 36.721000000000004,
+            "lng": -4.416,
+            "localidad": "Málaga",
+            "numero": 6
+        },
+        "nombre": "Alcazaba",
+        "photo": null,
+        "rank": 92
+    },
+    {
+        "descripcion": "El Puente de los Alemanes (o de Santo Domingo) es un pequeño puente que Alemania donó a la ciudad española de Málaga y que fue construido en 1909.",
+        "direccion": {
+            "calle": "Pasillo Santo Domingo",
+            "codigo_postal": "29007",
+            "lat": 36.71944444444445,
+            "lng": -4.4255555555555555,
+            "localidad": "Málaga",
+            "numero": 5
+        },
+        "nombre": "Puente de los Alemanes",
+        "photo": null,
+        "rank": 20
+    },
+    {
+        "descripcion": "Málaga es una ciudad y un municipio de España, capital de la provincia homónima y ubicada en la comunidad autónoma de Andalucía. Con una población de 572.947 habitantes en 2015, Málaga es la más poblada de España, la segunda de Andalucía, y la número cuarenta y seis de la Unión Europea, así como la (...)",
+        "direccion": {
+            "calle": "Calle Guillen Sotelo",
+            "codigo_postal": "29016",
+            "lat": 36.72095,
+            "lng": -4.41506,
+            "localidad": "Málaga",
+            "numero": 10
+        },
+        "nombre": "Málaga",
+        "photo": null,
+        "rank": 100
+    },
+    {
+        "descripcion": "El puente de la Aurora, cuya denominación oficial es Puente de Alfonso XIII, es un histórico puente de la ciudad de Málaga, España. Su construcción concluyó en el año 1930, tras dos años de obras.. Consultado el 23/09/12.  (...)",
+        "direccion": {
+            "calle": "Avenida Rosaleda",
+            "codigo_postal": "29008",
+            "lat": 36.72174166666667,
+            "lng": -4.4255555555555555,
+            "localidad": "Málaga",
+            "numero": 1
+        },
+        "nombre": "Puente de la Aurora (Málaga)",
+        "photo": null,
+        "rank": 17
+    },
+    {
+        "descripcion": "La Fundación Picasso Museo Casa Natal es una institución cultural con sede en la ciudad española de Málaga que tiene como objetivo la promoción y difusión de la obra del pintor Pablo Picasso. Creada por el ayuntamiento de Málaga en 1988, está ubicada en el inmueble de la Casa Natal de Picasso, en (...)",
+        "direccion": {
+            "calle": "Plaza Merced",
+            "codigo_postal": "29012",
+            "lat": 36.724,
+            "lng": -4.4175,
+            "localidad": "Málaga",
+            "numero": 16
+        },
+        "nombre": "Fundación Picasso Museo Casa Natal",
+        "photo": null,
+        "rank": 76
+    },
+    {
+        "descripcion": "La batalla de Málaga fue una ofensiva de principios de 1937 lanzada por una fuerza combinada del bando sublevado y los italianos del Corpo Truppe Volontarie para arrebatar el control de la provincia de Málaga a los republicanos durante la Guerra Civil Española (...)",
+        "direccion": {
+            "calle": "",
+            "codigo_postal": "",
+            "lat": 36.7167,
+            "lng": -4.4167,
+            "localidad": ", ",
+            "numero": 0
+        },
+        "nombre": "Batalla de Málaga (1937)",
+        "photo": null,
+        "rank": 91
+    },
+    {
+        "descripcion": "La provincia de Spania (en latín Provincia Spaniae) fue una provincia del Imperio bizantino entre los siglos VI y VII. La provincia, la más occidental de cuantas constituyeron el Imperio a lo largo de su historia, se formó como parte de las campañas militares de Justiniano I el Grande en sus esfuerzos por restaurar el Imperio romano de Occidente. Su territorio incluía una zona de la península ibérica arrebatada al reino visigodo, que había formado parte del desaparecido reino vándalo. La ciudad de Septem (actual Ceuta), aunque también perteneció al reino visigodo, fue incluida en la provincia de .​",
+        "direccion": {
+            "calle": "",
+            "codigo_postal": "",
+            "lat": 36.7167,
+            "lng": -4.4167,
+            "localidad": ", ",
+            "numero": 0
+        },
+        "nombre": "Provincia de Spania",
+        "photo": null,
+        "rank": 95
+    },
+    {
+        "descripcion": "El Consorcio de Transporte Metropolitano del Área de Málaga (CTMAM) es una entidad de derecho público constituida el 18 de septiembre de 2003 para articular la cooperación económica, técnica y administrativa entre las administraciones consorciadas a fin de ejercer de forma conjunta y coordinada las (...)",
+        "direccion": {
+            "calle": "",
+            "codigo_postal": "",
+            "lat": 36.71666666666667,
+            "lng": -4.416666666666667,
+            "localidad": ", ",
+            "numero": 0
+        },
+        "nombre": "Consorcio de Transporte Metropolitano del Área de Málaga",
+        "photo": null,
+        "rank": 98
+    },
+    {
+        "descripcion": "Málaga es una de las ocho provincias españolas que componen la comunidad autónoma de Andalucía. Está situada al sur de la península ibérica, en la costa mediterránea, entre las provincias de Granada, al este, y Cádiz, al oeste. Al norte limita con las provincias de Córdoba y Sevilla (...)",
+        "direccion": {
+            "calle": "",
+            "codigo_postal": "",
+            "lat": 36.71666666666667,
+            "lng": -4.416666666666667,
+            "localidad": ", ",
+            "numero": 0
+        },
+        "nombre": "Provincia de Málaga",
+        "photo": null,
+        "rank": 100
+    },
+    {
+        "descripcion": "La Calle de los Mármoles o, simplemente, Calle Mármoles es una conocida vía de la ciudad española de Málaga. Se encuentra, según la delimitación oficial del ayuntamiento, en el barrio homónimo, aunque según la división tradicional es la calle que separa los barrios de El Perchel y La Trinidad; en el (...)",
+        "direccion": {
+            "calle": "Plaza Aurora",
+            "codigo_postal": "29009",
+            "lat": 36.721805555555555,
+            "lng": -4.426,
+            "localidad": "Málaga",
+            "numero": 3
+        },
+        "nombre": "Calle de los Mármoles",
+        "photo": null,
+        "rank": 10
+    },
+    {
+        "descripcion": "El Puerto de Málaga es un puerto marítimo español que se encuentra en la Bahía de Málaga, en el sur de la Península Ibérica, en el Mediterráneo occidental. Gestionado por la Autoridad Portuaria de Málaga, es un puerto comercial, de pasajeros, de cruceros, deportivo y pesquero (...)",
+        "direccion": {
+            "calle": "",
+            "codigo_postal": "",
+            "lat": 36.716667,
+            "lng": -4.416111,
+            "localidad": ", ",
+            "numero": 0
+        },
+        "nombre": "Puerto de Málaga",
+        "photo": null,
+        "rank": 93
+    },
+    {
+        "descripcion": "El Museum Jorge Rando es el primer museo expresionista en España. Dedicado al pintor Jorge Rando alberga su obra y temporalmente la de artistas nacionales e internacionales​​​ vinculados a esta corriente. Fue inaugurado oficialmente el 28 de mayo de 2014.​​​​",
+        "direccion": {
+            "calle": "Calle Cruz Del Molinillo",
+            "codigo_postal": "29013",
+            "lat": 36.726786,
+            "lng": -4.423791,
+            "localidad": "Málaga",
+            "numero": 14
+        },
+        "nombre": "Museum Jorge Rando",
+        "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Museumjorgerando.jpg?width=300",
+        "rank": 77
+    },
+    {
+        "descripcion": "El castillo de Gibralfaro o alcázar de Gibralfaro es una fortificación situada en la ciudad española de Málaga.",
+        "direccion": {
+            "calle": "",
+            "codigo_postal": "",
+            "lat": 36.723333,
+            "lng": -4.411667,
+            "localidad": ", ",
+            "numero": 0
+        },
+        "nombre": "Castillo de Gibralfaro",
+        "photo": null,
+        "rank": 80
+    },
+    {
+        "descripcion": "La Malagueta es la plaza de toros de Málaga (Andalucía, España). Se encuentra situada en la zona que le da su nombre, La Malagueta, en el Distrito Este de Málaga, junto al Paseo de Reding. Está previsto que, después de verano de 2017, se inicien unas obras para dotar al inmueble de salas de congresos y espacios expositivos, además de un restaurante y una tienda, convirtiéndolo en un centro cultural, ya que el recinto está prácticamente inutilizado cuando no es Semana Santa o Feria de Agosto.​",
+        "direccion": {
+            "calle": "Calle Maestranza",
+            "codigo_postal": "29016",
+            "lat": 36.720211,
+            "lng": -4.410589,
+            "localidad": "Málaga",
+            "numero": 7
+        },
+        "nombre": "Plaza de toros de La Malagueta",
+        "photo": null,
+        "rank": 68
+    },
+    {
+        "descripcion": "Gibralfaro (del árabe, gíbal al-faruh (del lat: pharo) -> giblafaruh, 'monte del faro') es un monte de 130 metros de altitud, situado en la ciudad de española de Málaga, en torno al cual los fenicios fundaron la ciudad de Malaka.",
+        "direccion": {
+            "calle": "",
+            "codigo_postal": "",
+            "lat": 36.723333333333336,
+            "lng": -4.410833333333334,
+            "localidad": ", ",
+            "numero": 0
+        },
+        "nombre": "Gibralfaro",
+        "photo": null,
+        "rank": 75
+    },
+    {
+        "descripcion": "La Compañía de los Ferrocarriles Andaluces, conocida popularmente como \"Andaluces\", fue una destacada empresa ferrovaria española que destacó durante la segunda mitad del siglo XIX y el primer tercio del siglo XX (...)",
+        "direccion": {
+            "calle": "Paseo Reding",
+            "codigo_postal": "29016",
+            "lat": 36.720555555555556,
+            "lng": -4.408611111111111,
+            "localidad": "Málaga",
+            "numero": 20
+        },
+        "nombre": "Compañía de los Ferrocarriles Andaluces",
+        "photo": null,
+        "rank": 98
+    },
+    {
+        "descripcion": "Para otros usos de este término, véase Cementerio Inglés. El cementerio Anglicano, cementerio de San Jorge o cementerio Inglés es un camposanto levantado en el siglo XIX en la ciudad de Málaga, en la comunidad autónoma de Andalucía, al sur de España (...)",
+        "direccion": {
+            "calle": "Avenida Pries",
+            "codigo_postal": "29016",
+            "lat": 36.7212,
+            "lng": -4.4071,
+            "localidad": "Málaga",
+            "numero": 3
+        },
+        "nombre": "Cementerio Inglés (Málaga)",
+        "photo": null,
+        "rank": 63
+    },
+    {
+        "descripcion": "Málaga-María Zambrano es la principal estación de ferrocarril de la ciudad española de Málaga, en la comunidad autónoma de Andalucía. La estación lleva el nombre de la filósofa y ensayista María Zambrano desde 2007, pues antes se llamaba Málaga-Término (...)",
+        "direccion": {
+            "calle": "Calle Heroe De Sostoa",
+            "codigo_postal": "29002",
+            "lat": 36.711667,
+            "lng": -4.431944,
+            "localidad": "Málaga",
+            "numero": 4
+        },
+        "nombre": "Estación de Málaga-María Zambrano",
+        "photo": null,
+        "rank": 93
+    }
+]

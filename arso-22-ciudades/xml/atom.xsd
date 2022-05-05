@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.w3.org/2005/Atom"
+           xmlns="http://www.w3.org/2005/Atom"
+           elementFormDefault="qualified">
+
+    <xs:element name="feed">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="id" type="xs:anyURI"/>
+                <xs:element name="title" type="non_empty_string"/>
+                <xs:element name="updated" type="non_empty_string"/>
+                <xs:element name="author" type="type_author"/>
+                <xs:element name="link" type="type_link"/>
+
+                <xs:element name="entry" type="type_entry" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:simpleType name="non_empty_string">
+        <xs:restriction base="xs:string">
+            <xs:minLength value="1"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:complexType name="type_entry">
+        <xs:all>
+            <xs:element name="id" type="xs:anyURI"/>
+            <xs:element name="title" type="non_empty_string"/>
+            <xs:element name="content" type="non_empty_string"/>
+            <xs:element name="updated" type="non_empty_string"/>
+        </xs:all>
+    </xs:complexType>
+
+    <xs:complexType name="type_author">
+        <xs:all>
+            <xs:element name="name" type="xs:string"/>
+        </xs:all>
+    </xs:complexType>
+
+    <xs:complexType name="type_link">
+        <xs:simpleContent>
+            <xs:extension base="xs:string">
+                <xs:attribute name="rel" type="xs:string"/>
+                <xs:attribute name="href" type="xs:string"/>
+            </xs:extension>
+        </xs:simpleContent>
+    </xs:complexType>
+
+</xs:schema>

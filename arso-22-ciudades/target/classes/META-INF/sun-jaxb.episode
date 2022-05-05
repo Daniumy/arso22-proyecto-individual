@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bindings xmlns="http://java.sun.com/xml/ns/jaxb" if-exists="true" version="2.1">
+      
+    <!--
+
+Este archivo ha sido generado por la arquitectura JavaTM para la implantación de la referencia de enlace (JAXB) XML v2.3.0 
+Visite <a href="https://javaee.github.io/jaxb-v2/">https://javaee.github.io/jaxb-v2/</a> 
+Todas las modificaciones realizadas en este archivo se perderán si se vuelve a compilar el esquema de origen. 
+Generado el: 2022.05.05 a las 01:45:22 AM CEST 
+
+  -->
+      
+    <bindings xmlns:tns="http://www.w3.org/2005/Atom" if-exists="true" scd="x-schema::tns">
+            
+        <schemaBindings map="false">
+                  
+            <package name="org.w3._2005.atom"/>
+                
+        </schemaBindings>
+            
+        <bindings if-exists="true" scd="tns:feed">
+                  
+            <class ref="org.w3._2005.atom.Feed"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:type_author">
+                  
+            <class ref="org.w3._2005.atom.TypeAuthor"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:type_link">
+                  
+            <class ref="org.w3._2005.atom.TypeLink"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:type_entry">
+                  
+            <class ref="org.w3._2005.atom.TypeEntry"/>
+                
+        </bindings>
+          
+    </bindings>
+      
+    <bindings xmlns:tns="http://www.um.es/ciudad" if-exists="true" scd="x-schema::tns">
+            
+        <schemaBindings map="false">
+                  
+            <package name="es.um.ciudad"/>
+                
+        </schemaBindings>
+            
+        <bindings if-exists="true" scd="tns:ciudad">
+                  
+            <class ref="es.um.ciudad.Ciudad"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:typeSitiosInteres">
+                  
+            <class ref="es.um.ciudad.TypeSitiosInteres"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:typeParkingsMR">
+                  
+            <class ref="es.um.ciudad.TypeParkingsMR"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:typeSitioInteres">
+                  
+            <class ref="es.um.ciudad.TypeSitioInteres"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:typeDireccion">
+                  
+            <class ref="es.um.ciudad.TypeDireccion"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:typeParking">
+                  
+            <class ref="es.um.ciudad.TypeParking"/>
+                
+        </bindings>
+          
+    </bindings>
+    
+</bindings>

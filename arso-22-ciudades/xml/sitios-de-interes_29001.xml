@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sitios-de-interes>
+	<sitioInteres>
+		<id>Catedral_de_M%C3%A1laga</id>
+		<nombre>Catedral de Málaga</nombre>
+		<descripcion>La Santa Iglesia Catedral Basílica de la Encarnación es
+			la catedral de Málaga, España. Situada enfrente de la plaza del
+			Obispo, el templo es considerado una de las joyas renacentistas más
+			valiosas de Andalucía. Se encuentra dentro de los límites que marcaba
+			la desaparecida muralla árabe sobre el (...)</descripcion>
+		<rank>98</rank>
+		<direccion>
+			<calle>Calle Molina Lario</calle>
+			<numero>9</numero>
+			<localidad>Málaga</localidad>
+			<codigoPostal>29015</codigoPostal>
+			<lat>36.72</lat>
+			<lng>-4.4201</lng>
+		</direccion>
+	</sitioInteres>
+	<sitioInteres>
+		<id>Toma_de_M%C3%A1laga_%281487%29</id>
+		<nombre>Toma de Málaga (1487)</nombre>
+		<descripcion>Se conoce como la toma de Málaga al asedio llevado a cabo
+			en 1487 mediante el cual los Reyes Católicos conquistaron la ciudad
+			de Málaga a los musulmanes en el marco de la Guerra de Granada. El
+			asedio fue un largo evento de unos cuatro meses de duración y supuso
+			un episodio sangriento en la guerra (...)</descripcion>
+		<rank>90</rank>
+		<direccion>
+			<calle>Calle Molina Lario</calle>
+			<numero>22</numero>
+			<localidad>Málaga</localidad>
+			<codigoPostal>29015</codigoPostal>
+			<lat>36.719</lat>
+			<lng>-4.42</lng>
+		</direccion>
+	</sitioInteres>
+	<sitioInteres>
+		<id>Distrito_Centro_%28M%C3%A1laga%29</id>
+		<nombre>Distrito Centro (Málaga)</nombre>
+		<descripcion>El Distrito Centro o Distrito 1 es uno de los once
+			distritos en que está dividida administrativamente la ciudad de
+			Málaga. En ocasiones también es llamado distrito Málaga-Centro. Como
+			su nombre indica, el distrito 1 está situado en el centro de la
+			ciudad (...)</descripcion>
+		<rank>98</rank>
+		<direccion>
+			<calle>Plaza Constitucion</calle>
+			<numero>12</numero>
+			<localidad>Málaga</localidad>
+			<codigoPostal>29015</codigoPostal>
+			<lat>36.7211</lat>
+			<lng>-4.4215</lng>
+		</direccion>
+	</sitioInteres>
+	<sitioInteres>
+		<id>Convento_de_San_Agust%C3%ADn_%28M%C3%A1laga%29</id>
+		<nombre>Convento de San Agustín (Málaga)</nombre>
+		<descripcion>El antiguo Convento de San Agustín es un edificio situado
+			en el Centro Histórico de la ciudad de Málaga, España. Se localiza en
+			la calle San Agustín junto al Palacio de Buenavista, sede del Museo
+			Picasso Málaga. (...)</descripcion>
+		<rank>77</rank>
+		<direccion>
+			<calle>Calle San Agustin</calle>
+			<numero>6</numero>
+			<localidad>Málaga</localidad>
+			<codigoPostal>29015</codigoPostal>
+			<lat>36.7212</lat>
+			<lng>-4.4189</lng>
+		</direccion>
+	</sitioInteres>
+	<sitioInteres>
+		<id>Museo_Revello_de_Toro</id>
+		<nombre>Museo Revello de Toro</nombre>
+		<descripcion>El Museo Revello de Toro, situado en la casa-taller de
+			Pedro de Mena, es una pinacoteca de la ciudad de Málaga, España. Está
+			situado en calle Císter, en el centro histórico de la ciudad, en la
+			que fue la vivienda de Pedro de Mena durante su estancia en Málaga.
+			Como su nombre indica, el museo está dedicado al pintor malagueño
+			Félix Revello de Toro. Inaugurado el 27 de noviembre de 2010, el
+			museo contiene una colección de 132 obras del artista, de las que se
+			exponen 117 al mismo tiempo. Las obras se organizan de acuerdo a
+			criterios temáticos y técnicos. Así, se agrupan las obras de carácter
+			íntimo con bodegones y retratos familiares por un lado, y por otro,
+			las pinturas femeninas por las que es conocido sobre todo el artista.
+			Otra sala contiene bocetos y dibujos. El museo cuenta asimismo con
+			una sala de exposiciones temporales, donde se expone una colección de
+			carteles.​</descripcion>
+		<rank>22</rank>
+		<direccion>
+			<calle>Calle Cister</calle>
+			<numero>6</numero>
+			<localidad>Málaga</localidad>
+			<codigoPostal>29015</codigoPostal>
+			<lat>36.7205</lat>
+			<lng>-4.4184</lng>
+		</direccion>
+	</sitioInteres>
+	<sitioInteres>
+		<id>Plaza_de_la_Constituci%C3%B3n_%28M%C3%A1laga%29</id>
+		<nombre>Plaza de la Constitución (Málaga)</nombre>
+		<descripcion>La Plaza de la Constitución es una vía pública del centro
+			de la ciudad de Málaga, España. Se trata de la antigua Plaza Mayor,
+			situada en el corazón del centro histórico de la ciudad, que desde el
+			siglo XV ha sido el espacio público y político de la ciudad por
+			excelencia. (...)</descripcion>
+		<rank>87</rank>
+		<direccion>
+			<calle>Plaza Constitucion</calle>
+			<numero>9</numero>
+			<localidad>Málaga</localidad>
+			<codigoPostal>29008</codigoPostal>
+			<lat>36.7211</lat>
+			<lng>-4.422</lng>
+		</direccion>
+	</sitioInteres>
+	<sitioInteres>
+		<id>Abad%C3%ADa_del_C%C3%ADster</id>
+		<nombre>Abadía del Císter</nombre>
+		<descripcion>La antigua Abadía de Santa Ana de Recoletas Bernardas del
+			Císter, más conocida como la Abadía del Císter, es un edificio
+			situado en el centro histórico de la ciudad española de Málaga. (...)
+		</descripcion>
+		<rank>30</rank>
+		<direccion>
+			<calle>Calle Cister</calle>
+			<numero>15</numero>
+			<localidad>Málaga</localidad>
+			<codigoPostal>29015</codigoPostal>
+			<lat>36.7206</lat>
+			<lng>-4.4178</lng>
+		</direccion>
+	</sitioInteres>
+	<sitioInteres>
+		<id>Palacio_de_los_Condes_de_Buenavista</id>
+		<nombre>Palacio de los Condes de Buenavista</nombre>
+		<descripcion>El palacio de los Condes de Buenavista de la Victoria,
+			sito en la calle San Agustín de la ciudad española de Málaga, fue
+			declarado Monumento Nacional en 1939. Se trata de un edificio de la
+			arquitectura civil española del siglo XVI, construido hacia 1530-1540
+			por y sede del Museo Picasso Málaga. Originalmente fue el palacio
+			residencial de los Condes de Buenavista de la Victoria, de ahí su
+			denominación. Es el más importante ejemplo de arquitectura civil
+			realizada tras la conquista de Málaga por los Reyes Católicos. Su
+			arquitectura es renacentista, con fachada plateresca y soluciones
+			mudéjares. Consta de sótano, baja y primera planta, con una fachada
+			plateresca maciza de aparejo de sillares, donde se trabajan con
+			sencillez pero de forma rotunda los elementos decorativos que
+			enmarcan los huecos, de grandes dimensiones y asimétricos. La puerta
+			principal de acceso fue diseñada junto con el balcón superior y el
+			interior se organiza en torno a un patio con doble galería. A través
+			de la escalera, al fondo a la derecha se accede a la planta primera
+			que repite el esquema de planta baja. La torre del edificio posee
+			guardapolvo y arcas bajo alfiz en su parte superior, con aparejo de
+			sillares de grandes dimensiones. El Palacio se convirtió durante el
+			siglo XX en la sede del Museo de Bellas Artes de Málaga, a raíz del
+			Real Decreto de 1913 que reorganizaba este tipo de museos. Alquilado
+			durante años por su propietario al Estado, en 1996 fue designado como
+			sede del Museo Picasso Málaga y, tras la inauguración de éste en
+			2003, en 2009 se aprobó la cesión del edificio, que era propiedad de
+			la administración autonómica, a la fundación resultante de la fusión
+			de la Fundación Picasso y la "Fundación Paul, Christine y Bernard
+			Ruiz-Picasso".​</descripcion>
+		<foto>http://commons.wikimedia.org/wiki/Special:FilePath/MPM_2.jpg?width=300
+		</foto>
+		<rank>89</rank>
+		<direccion>
+			<calle>Calle San Agustin</calle>
+			<numero>10</numero>
+			<localidad>Málaga</localidad>
+			<codigoPostal>29015</codigoPostal>
+			<lat>36.7217</lat>
+			<lng>-4.4183</lng>
+		</direccion>
+	</sitioInteres>
+	<sitioInteres>
+		<id>Museo_Picasso_M%C3%A1laga</id>
+		<nombre>Museo Picasso Málaga</nombre>
+		<descripcion>El Museo Picasso Málaga (MPM) es una de los dos
+			pinacotecas dedicadas a Pablo Picasso situado en su ciudad natal
+			Málaga (España), siendo la otra la Fundación Picasso Museo Casa
+			Natal. Las doscientas ochenta y cinco obras que reúne la colección
+			MPM abarcan las innovaciones revolucionarias de Picasso, (...)
+		</descripcion>
+		<rank>94</rank>
+		<direccion>
+			<calle>Calle San Agustin</calle>
+			<numero>10</numero>
+			<localidad>Málaga</localidad>
+			<codigoPostal>29015</codigoPostal>
+			<lat>36.7217</lat>
+			<lng>-4.4183</lng>
+		</direccion>
+	</sitioInteres>
+	<sitioInteres>
+		<id>Museo_Carmen_Thyssen_M%C3%A1laga</id>
+		<nombre>Museo Carmen Thyssen Málaga</nombre>
+		<descripcion>El Museo Carmen Thyssen Málaga es uno de los principales
+			museos de la ciudad española de
+			Málaga.http://www.laopiniondemalaga.es/cultura-espectaculos/2016/02/05/grandes-museos-malaga-reciben-millon/826595.html
+			Fue inaugurado en 2011 y reúne una de las colecciones más importantes
+			de pintura española y (...)</descripcion>
+		<rank>89</rank>
+		<direccion>
+			<calle>Calle Compañia</calle>
+			<numero>6</numero>
+			<localidad>Málaga</localidad>
+			<codigoPostal>29008</codigoPostal>
+			<lat>36.7214</lat>
+			<lng>-4.4228</lng>
+		</direccion>
+	</sitioInteres>
+	<sitioInteres>
+		<id>Museo_de_M%C3%A1laga</id>
+		<nombre>Museo de Málaga</nombre>
+		<descripcion>El Museo de Málaga es un centro expositivo de la ciudad
+			española de Málaga que da cabida a las colecciones de dos
+			instituciones museísticas malacitanas, el Museo de Bellas Artes de
+			Málaga y el Museo Arqueológico Provincial de Málaga, contando con más
+			de 15 (...)</descripcion>
+		<rank>94</rank>
+		<direccion>
+			<calle>Plaza Aduana</calle>
+			<numero>3</numero>
+			<localidad>Málaga</localidad>
+			<codigoPostal>29015</codigoPostal>
+			<lat>36.7201</lat>
+			<lng>-4.4174</lng>
+		</direccion>
+	</sitioInteres>
+	<sitioInteres>
+		<id>Palacio_de_la_Aduana_%28M%C3%A1laga%29</id>
+		<nombre>Palacio de la Aduana (Málaga)</nombre>
+		<descripcion>El Palacio de la Aduana de Málaga es un edificio
+			proyectado en 1788, destinado en su uso inicial a atender el tráfico
+			del puerto. Situado junto al parque de Málaga, actualmente es la sede
+			del Museo de Málaga. (...)</descripcion>
+		<rank>88</rank>
+		<direccion>
+			<calle>Travesia Pintor Nogales</calle>
+			<numero>2</numero>
+			<localidad>Málaga</localidad>
+			<codigoPostal>29016</codigoPostal>
+			<lat>36.72</lat>
+			<lng>-4.4172</lng>
+		</direccion>
+	</sitioInteres>
+	<sitioInteres>
+		<id>Museo_Interactivo_de_la_M%C3%BAsica_de_M%C3%A1laga</id>
+		<nombre>Museo Interactivo de la Música de Málaga</nombre>
+		<descripcion>El Museo Interactivo de la Música Málaga (MIMMA) fue
+			creado en 2003 y consta de más de 1.000 instrumentos de diferentes
+			épocas, países y culturas; lo que lo convierte en una de las
+			colecciones privadas más completas de España, por su variedad además
+			de por su dimensión (...)</descripcion>
+		<rank>77</rank>
+		<direccion>
+			<calle>Calle Beatas</calle>
+			<numero>15</numero>
+			<localidad>Málaga</localidad>
+			<codigoPostal>29008</codigoPostal>
+			<lat>36.7232</lat>
+			<lng>-4.4198</lng>
+		</direccion>
+	</sitioInteres>
+	<sitioInteres>
+		<id>Calle_Camas</id>
+		<nombre>Calle Camas</nombre>
+		<descripcion>La Calle de Camas es una vía ubicada en el Centro
+			Histórico de la ciudad española de Málaga. Es una de las más antiguas
+			de Málaga​ y discurre a lo largo de 120 metros en dirección Norte-Sur
+			partiendo de la Calle Cisneros y desembocando en la Calle Marqués.
+			Por el lado Este se encuentran los accesos a las calles Castillo de
+			Sohail y Calderón de la Barca.​</descripcion>
+		<rank>50</rank>
+		<direccion>
+			<calle>Calle Camas</calle>
+			<numero>5</numero>
+			<localidad>Málaga</localidad>
+			<codigoPostal>29005</codigoPostal>
+			<lat>36.7203</lat>
+			<lng>-4.4244</lng>
+		</direccion>
+	</sitioInteres>
+	<sitioInteres>
+		<id>Universidad_de_M%C3%A1laga</id>
+		<nombre>Universidad de Málaga</nombre>
+		<descripcion>La Universidad de Málaga o, según sus siglas, UMA, es una
+			institución de enseñanza superior y titularidad pública fundada en
+			1972. En ella estudian cerca de 40 000 alumnos y trabajan cerca de 2
+			450 profesores. Oferta 63 titulaciones de grado y 120 de posgrado,
+			entre programas de doctorado, másteres (...)</descripcion>
+		<rank>100</rank>
+		<direccion>
+			<calle>Calle Alcalde Pedro Luis Alonso</calle>
+			<numero>2</numero>
+			<localidad>Málaga</localidad>
+			<codigoPostal>29016</codigoPostal>
+			<lat>36.72</lat>
+			<lng>-4.4161</lng>
+		</direccion>
+	</sitioInteres>
+	<sitioInteres>
+		<id>Alcazaba_de_M%C3%A1laga</id>
+		<nombre>Alcazaba de Málaga</nombre>
+		<descripcion>La alcazaba de Málaga (del árabe al-qaṣbah, قصبة, al
+			kasbah, 'ciudadela') es una fortificación palaciega de la época
+			musulmana, construida sobre una anterior fortificación de origen
+			fenicio-púnico. Se encuentra en las faldas del monte Gibralfaro, en
+			una posición elevada pero contigua y unida al (...)</descripcion>
+		<rank>97</rank>
+		<direccion>
+			<calle>Calle Guillen Sotelo</calle>
+			<numero>6</numero>
+			<localidad>Málaga</localidad>
+			<codigoPostal>29016</codigoPostal>
+			<lat>36.7211</lat>
+			<lng>-4.4158</lng>
+		</direccion>
+	</sitioInteres>
+	<sitioInteres>
+		<id>Plaza_de_la_Merced</id>
+		<nombre>Plaza de la Merced</nombre>
+		<descripcion>La plaza de la Merced es una plaza situada en el barrio
+			homónimo de la ciudad española de Málaga. Se trata de una de las
+			principales plazas del centro de la ciudad, donde se desarrollan
+			habitualmente actos y festivales. En la plaza están situados el
+			obelisco en homenaje al General Torrijos y la casa natal de Picasso,
+			sede de la Fundación Picasso Museo Casa Natal.</descripcion>
+		<rank>77</rank>
+		<direccion>
+			<calle>Plaza Merced</calle>
+			<numero>25</numero>
+			<localidad>Málaga</localidad>
+			<codigoPostal>29012</codigoPostal>
+			<lat>36.7234</lat>
+			<lng>-4.4175</lng>
+		</direccion>
+	</sitioInteres>
+	<sitioInteres>
+		<id>Puente_de_los_Alemanes</id>
+		<nombre>Puente de los Alemanes</nombre>
+		<descripcion>El Puente de los Alemanes (o de Santo Domingo) es un
+			pequeño puente que Alemania donó a la ciudad española de Málaga y que
+			fue construido en 1909.</descripcion>
+		<rank>35</rank>
+		<direccion>
+			<calle>Pasillo Santo Domingo</calle>
+			<numero>5</numero>
+			<localidad>Málaga</localidad>
+			<codigoPostal>29007</codigoPostal>
+			<lat>36.7193</lat>
+			<lng>-4.4256</lng>
+		</direccion>
+	</sitioInteres>
+	<sitioInteres>
+		<id>M%C3%A1laga</id>
+		<nombre>Málaga</nombre>
+		<descripcion>Málaga es una ciudad y un municipio de España, capital de
+			la provincia homónima y ubicada en la comunidad autónoma de
+			Andalucía. Con una población de 570 006 habitantes en 2017, Málaga es
+			la más poblada de España, la segunda de Andalucía y la número
+			cuarenta y seis de la Unión Europea, así como la (...)</descripcion>
+		<rank>100</rank>
+		<direccion>
+			<calle>Calle Guillen Sotelo</calle>
+			<numero>10</numero>
+			<localidad>Málaga</localidad>
+			<codigoPostal>29016</codigoPostal>
+			<lat>36.721</lat>
+			<lng>-4.4151</lng>
+		</direccion>
+	</sitioInteres>
+	<sitioInteres>
+		<id>Puente_de_la_Aurora_%28M%C3%A1laga%29</id>
+		<nombre>Puente de la Aurora (Málaga)</nombre>
+		<descripcion>El puente de la Aurora, cuya denominación oficial es
+			Puente de Alfonso XIII, es un histórico puente de la ciudad de
+			Málaga, España. Su construcción concluyó en el año 1930, tras dos
+			años de obras.. Consultado el 23/09/12. (...)</descripcion>
+		<rank>17</rank>
+		<direccion>
+			<calle>Avenida Rosaleda</calle>
+			<numero>1</numero>
+			<localidad>Málaga</localidad>
+			<codigoPostal>29008</codigoPostal>
+			<lat>36.7217</lat>
+			<lng>-4.4256</lng>
+		</direccion>
+	</sitioInteres>
+	<sitioInteres>
+		<id>Fundaci%C3%B3n_Picasso_Museo_Casa_Natal</id>
+		<nombre>Fundación Picasso Museo Casa Natal</nombre>
+		<descripcion>La Fundación Picasso Museo Casa Natal es una institución
+			cultural con sede en la ciudad española de Málaga que tiene como
+			objetivo la promoción y difusión de la obra del pintor Pablo Picasso.
+			Creada por el ayuntamiento de Málaga en 1988, está ubicada en el
+			inmueble de la Casa Natal de Picasso, en (...)</descripcion>
+		<rank>79</rank>
+		<direccion>
+			<calle>Plaza Merced</calle>
+			<numero>16</numero>
+			<localidad>Málaga</localidad>
+			<codigoPostal>29012</codigoPostal>
+			<lat>36.724</lat>
+			<lng>-4.4175</lng>
+		</direccion>
+	</sitioInteres>
+	<sitioInteres>
+		<id>Batalla_de_M%C3%A1laga_%281937%29</id>
+		<nombre>Batalla de Málaga (1937)</nombre>
+		<descripcion>La batalla de Málaga fue una ofensiva de principios de
+			1937 lanzada por una fuerza combinada del bando sublevado y los
+			italianos del Corpo Truppe Volontarie para arrebatar el control de la
+			provincia de Málaga a los republicanos durante la Guerra Civil
+			Española (...)</descripcion>
+		<rank>93</rank>
+		<direccion>
+			<calle />
+			<numero>0</numero>
+			<localidad />
+			<codigoPostal />
+			<lat>36.7167</lat>
+			<lng>-4.4167</lng>
+		</direccion>
+	</sitioInteres>
+	<sitioInteres>
+		<id>Provincia_de_Spania</id>
+		<nombre>Provincia de Spania</nombre>
+		<descripcion>La provincia de Spania (en latín Provincia Spaniae) fue
+			una provincia del Imperio bizantino entre los siglos VI y VII. La
+			provincia, la más occidental de cuantas constituyeron el Imperio a lo
+			largo de su historia, se formó como parte de las campañas militares
+			de Justiniano I el Grande en sus esfuerzos por restaurar el Imperio
+			romano de Occidente. Su territorio incluía una zona de la península
+			ibérica arrebatada al reino visigodo, que había formado parte del
+			desaparecido reino vándalo. La ciudad de Septem (actual Ceuta),
+			aunque también perteneció al reino visigodo, fue incluida en la
+			provincia de .​</descripcion>
+		<rank>97</rank>
+		<direccion>
+			<calle />
+			<numero>0</numero>
+			<localidad />
+			<codigoPostal />
+			<lat>36.7167</lat>
+			<lng>-4.4167</lng>
+		</direccion>
+	</sitioInteres>
+	<sitioInteres>
+		<id>Taifa_de_M%C3%A1laga</id>
+		<nombre>Taifa de Málaga</nombre>
+		<descripcion>La Taifa de Málaga o Taifa mālaqui fue un reino
+			independiente musulmán que surgió en al-Ándalus en 1026, a raíz de la
+			desintegración que el Califato de Córdoba venía sufriendo desde 1008,
+			y que desaparecería definitivamente en 1238 al ser conquistada por el
+			Reino nazarí de Granada (...)</descripcion>
+		<rank>88</rank>
+		<direccion>
+			<calle />
+			<numero>0</numero>
+			<localidad />
+			<codigoPostal />
+			<lat>36.7167</lat>
+			<lng>-4.4167</lng>
+		</direccion>
+	</sitioInteres>
+	<sitioInteres>
+		<id>Circunscripci%C3%B3n_electoral_de_M%C3%A1laga</id>
+		<nombre>Circunscripción electoral de Málaga</nombre>
+		<descripcion>La provincia de Málaga es una de las 52 circunscripciones
+			electorales utilizadas como distritos electorales desde 1977 para la
+			cámara baja de las Cortes Españolas, el Congreso de los Diputados, y
+			una de las 60 de la cámara alta, el Senado (...)</descripcion>
+		<rank>97</rank>
+		<direccion>
+			<calle />
+			<numero>0</numero>
+			<localidad />
+			<codigoPostal />
+			<lat>36.7167</lat>
+			<lng>-4.4167</lng>
+		</direccion>
+	</sitioInteres>
+	<sitioInteres>
+		<id>Consorcio_de_Transporte_Metropolitano_del_%C3%81rea_de_M%C3%A1laga
+		</id>
+		<nombre>Consorcio de Transporte Metropolitano del Área de Málaga
+		</nombre>
+		<descripcion>El Consorcio de Transporte Metropolitano del Área de
+			Málaga (CTMAM) es una entidad de derecho público constituida el 18 de
+			septiembre de 2003 para articular la cooperación económica, técnica y
+			administrativa entre las administraciones consorciadas a fin de
+			ejercer de forma conjunta y coordinada las (...)</descripcion>
+		<rank>99</rank>
+		<direccion>
+			<calle />
+			<numero>0</numero>
+			<localidad />
+			<codigoPostal />
+			<lat>36.7167</lat>
+			<lng>-4.4167</lng>
+		</direccion>
+	</sitioInteres>
+	<sitioInteres>
+		<id>Provincia_de_M%C3%A1laga</id>
+		<nombre>Provincia de Málaga</nombre>
+		<descripcion>Málaga es una de las ocho provincias españolas que
+			componen la comunidad autónoma de Andalucía. Está situada al sur de
+			la península ibérica, en la costa mediterránea, entre las provincias
+			de Granada, al este, y Cádiz, al oeste. Al norte limita con las
+			provincias de Córdoba y Sevilla (...)</descripcion>
+		<rank>100</rank>
+		<direccion>
+			<calle />
+			<numero>0</numero>
+			<localidad />
+			<codigoPostal />
+			<lat>36.7167</lat>
+			<lng>-4.4167</lng>
+		</direccion>
+	</sitioInteres>
+	<sitioInteres>
+		<id>Puerto_de_M%C3%A1laga</id>
+		<nombre>Puerto de Málaga</nombre>
+		<descripcion>El Puerto de Málaga es un puerto marítimo español que se
+			encuentra en la Bahía de Málaga, en el sur de la Península Ibérica,
+			en el Mediterráneo occidental. Gestionado por la Autoridad Portuaria
+			de Málaga, es un puerto comercial, de pasajeros, de cruceros,
+			deportivo y pesquero (...)</descripcion>
+		<rank>97</rank>
+		<direccion>
+			<calle />
+			<numero>0</numero>
+			<localidad />
+			<codigoPostal />
+			<lat>36.7167</lat>
+			<lng>-4.4161</lng>
+		</direccion>
+	</sitioInteres>
+	<sitioInteres>
+		<id>Centro_Pompidou_de_M%C3%A1laga</id>
+		<nombre>Centro Pompidou de Málaga</nombre>
+		<descripcion>El Centre Pompidou Málaga es una sede del Centro Nacional
+			de Arte y Cultura Georges Pompidou de Francia ubicada en el espacio
+			denominado El Cubo en la ciudad española de Málaga. Se trata de la
+			segunda sede externa al centro original parisino y la primera situada
+			fuera de Francia (...)</descripcion>
+		<rank>82</rank>
+		<direccion>
+			<calle>Paseo Farola</calle>
+			<numero>4</numero>
+			<localidad>Málaga</localidad>
+			<codigoPostal>29016</codigoPostal>
+			<lat>36.7189</lat>
+			<lng>-4.4125</lng>
+		</direccion>
+	</sitioInteres>
+	<sitioInteres>
+		<id>Centro_de_Arte_Contempor%C3%A1neo_de_M%C3%A1laga</id>
+		<nombre>Centro de Arte Contemporáneo de Málaga</nombre>
+		<descripcion>El Centro de Arte Contemporáneo de Málaga (CAC Málaga) es
+			una iniciativa cultural del Ayuntamiento de Málaga que tiene como
+			objetivo la difusión de las artes plásticas del siglo XX y XXI. El
+			antiguo Mercado de Mayoristas de Málaga, edificio declarado Bien de
+			interés cultural y sede del centro, (...)</descripcion>
+		<rank>79</rank>
+		<direccion>
+			<calle>Avenida Comandante Benitez</calle>
+			<numero>4</numero>
+			<localidad>Málaga</localidad>
+			<codigoPostal>29001</codigoPostal>
+			<lat>36.7144</lat>
+			<lng>-4.4256</lng>
+		</direccion>
+	</sitioInteres>
+</sitios-de-interes>
