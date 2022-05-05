@@ -58,8 +58,8 @@ public class ServicioCiudad implements IServicioCiudad {
 			/** Declaración de la cola y enlace con el exchange **/
 
 			final String exchangeName = "arso-exchange";
-			final String queueName = "arso-queue";
-			final String bindingKey = "arso";
+			final String queueName = "arso-queue-parkings";
+			final String bindingKey = "valoracionParking";
 
 			boolean durable = true;
 			boolean exclusive = false;
@@ -70,7 +70,7 @@ public class ServicioCiudad implements IServicioCiudad {
 
 			/** Configuración del consumidor **/
 			boolean autoAck = false;
-			String cola = "arso-queue";
+			String cola = "arso-queue-parkings";
 			String etiquetaConsumidor = "arso-consumidor";
 			// Consumidor push
 

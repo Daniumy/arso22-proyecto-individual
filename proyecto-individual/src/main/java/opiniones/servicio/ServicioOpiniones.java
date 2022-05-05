@@ -105,7 +105,21 @@ public class ServicioOpiniones implements IServicioOpiniones {
 		// 2. Notificarlo
 		notificarEvento(evento);
 	}
-
+	protected String tratarTipoValoracion(EventoValoracionCreada evento) {
+		String url = evento.getUrl();
+		String partes[] = url.split(",");
+		boolean esValoracionDeParking = true;
+		
+		try {
+            Double lat = Double.parseDouble(partes[0]);
+            Double lng = Double.parseDouble(partes[1]);
+        } catch (NumberFormatException e) {
+            esValoracionDeParking = false;
+        }
+		if (esValoracionDeParking) return "valoracionParking";
+		return "";
+		
+	}
 	protected void notificarEvento(EventoValoracionCreada evento) {
 		try {
 			ConnectionFactory factory = new ConnectionFactory();
@@ -130,7 +144,7 @@ public class ServicioOpiniones implements IServicioOpiniones {
 
 			String mensaje = cadenaJSON;
 
-			String routingKey = "arso";
+			String routingKey = tratarTipoValoracion(evento);
 			channel.basicPublish(exchangeName, routingKey,
 					new AMQP.BasicProperties.Builder().contentType("application/json").build(), mensaje.getBytes());
 			channel.close();
