@@ -107,7 +107,6 @@ public class ServicioOpiniones implements IServicioOpiniones {
 	}
 
 	protected void notificarEvento(EventoValoracionCreada evento) {
-		System.out.println("voy a notificar el evento" + evento.getUrl());
 		try {
 			ConnectionFactory factory = new ConnectionFactory();
 			factory.setUri("amqps://wswcdlhl:pIJYGbkfqu-TYpyC0tKcDwEt-xQVTH6K@squid.rmq.cloudamqp.com/wswcdlhl");
@@ -134,7 +133,6 @@ public class ServicioOpiniones implements IServicioOpiniones {
 			String routingKey = "arso";
 			channel.basicPublish(exchangeName, routingKey,
 					new AMQP.BasicProperties.Builder().contentType("application/json").build(), mensaje.getBytes());
-			System.out.println("la variable mensaje luce tal que: "+mensaje);
 			channel.close();
 			connection.close();
 		} catch (Exception e) {
