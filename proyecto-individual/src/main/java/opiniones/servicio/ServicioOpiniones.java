@@ -71,6 +71,7 @@ public class ServicioOpiniones implements IServicioOpiniones {
 //Añadir una valoración para una URL. Si un usuario registra una segunda valoración para una misma URL, ésta reemplazará a la primera.
 	@Override
 	public void anadirValoracion(String url, Valoracion valoracion) throws RepositorioException, EntidadNoEncontrada {
+		System.out.println("la url es supuestamente :" +url);
 		Opinion opinion = getByUrl(url);
 		if (valoracion == null)
 			throw new IllegalArgumentException("valoracion: no debe ser una valoracion nula");
@@ -88,7 +89,6 @@ public class ServicioOpiniones implements IServicioOpiniones {
 				valoracionaux.setComentario(valoracion.getComentario());
 				valoracionaux.setFechaRegistro(valoracion.getFechaRegistro());
 				repositorio.update(opinion);
-				System.out.println("modificado uno");
 				return;
 			}
 		}
@@ -107,16 +107,10 @@ public class ServicioOpiniones implements IServicioOpiniones {
 	}
 	protected String tratarTipoValoracion(EventoValoracionCreada evento) {
 		String url = evento.getUrl();
-		String partes[] = url.split(",");
-		boolean esValoracionDeParking = true;
-		
-		try {
-            Double lat = Double.parseDouble(partes[0]);
-            Double lng = Double.parseDouble(partes[1]);
-        } catch (NumberFormatException e) {
-            esValoracionDeParking = false;
-        }
-		if (esValoracionDeParking) return "valoracionParking";
+		String partes[] = url.split("/");
+		System.out.println();
+		if (partes[1].equals("api") && partes[2].equals("guias")) {System.out.println("voy a devolver valoracionGuia");return "valoracionGuia";}
+		if (partes[1].equals("api") && partes[2].equals("ciudades")) {System.out.println("voy a devolver valoracionParking");return "valoracionParking";}
 		return "";
 		
 	}
@@ -168,9 +162,7 @@ public class ServicioOpiniones implements IServicioOpiniones {
 	@Override
 	public void remove(String id) throws RepositorioException, EntidadNoEncontrada {
 		Opinion opinion = repositorio.getById(id);
-
 		repositorio.delete(opinion);
-
 	}
 
 	@Override

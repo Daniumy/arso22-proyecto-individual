@@ -17,6 +17,10 @@ public class Valoracion {
 	@JsonDeserialize(using = LocalDateTimeDeserializer.class)
 	private LocalDateTime fechaRegistro;
 	
+	@XmlJavaTypeAdapter(value = LocalDateTimeAdapter.class)
+	public LocalDateTime getFechaRegistro() {
+		return fechaRegistro;
+	}
 	private double calificacion;
 	private String comentario;
 
@@ -28,10 +32,7 @@ public class Valoracion {
 		this.email = email;
 	}
 	
-	@XmlJavaTypeAdapter(value = LocalDateTimeAdapter.class)
-	public LocalDateTime getFechaRegistro() {
-		return fechaRegistro;
-	}
+	
 
 	public void setFechaRegistro(LocalDateTime fechaRegistro) {
 		this.fechaRegistro = fechaRegistro;

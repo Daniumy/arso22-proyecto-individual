@@ -440,9 +440,9 @@
             <foto>https://www.lorca.es/ficheros/File/parking-disabled/imagen-plazas/plaza1.jpg</foto>
             <longitud>-1.7114953133709605</longitud>
             <latitud>37.65498859455905</latitud>
-            <numValoraciones>15</numValoraciones>
+            <numValoraciones>6</numValoraciones>
             <calificacionMedia>3.0</calificacionMedia>
-            <url>37.65498859455905,-1.7114953133709605</url>
+            <url>localhost:8090/api/ciudades/37.65498859455905,-1.7114953133709605</url>
         </parking>
         <parking>
             <direccion>Aparcamiento Lorca Taller del Tiempo Castillo (C/Pilones)</direccion>

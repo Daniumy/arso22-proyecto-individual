@@ -118,7 +118,9 @@ public class ServicioCiudad implements IServicioCiudad {
 	protected void anadirInfoAparcamiento() throws RepositorioException, EntidadNoEncontrada {
 		List<Ciudad> ciudades = repositorio.getAll();
 		String url = evento.getUrl();
-		String latLng[] = url.split(",");
+		String partes[] = url.split("/");
+		System.out.println("el evento recibido tiene la url: " + url);
+		String latLng[] = partes[3].split(",");
 		for (Ciudad ciudad : ciudades) {
 			TypeParkingsMR parkingsWrapper = ciudad.getParkingMovilidadReducida();
 			List<TypeParking> parkings = parkingsWrapper.getParking();
