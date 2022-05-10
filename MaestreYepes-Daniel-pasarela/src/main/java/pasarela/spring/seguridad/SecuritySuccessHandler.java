@@ -32,13 +32,9 @@ public class SecuritySuccessHandler implements AuthenticationSuccessHandler {
 
 		DefaultOAuth2User usuario = (DefaultOAuth2User) authentication.getPrincipal();
 
-		System.out.println(usuario); // depuración
-
 		String login = usuario.getAttribute("login");
 
 		// En GitHub es necesario que el usuario autorice que se publique su email.
-
-		System.out.println(login);
 
 		Map<String, String> datosUsuario = null;
 		

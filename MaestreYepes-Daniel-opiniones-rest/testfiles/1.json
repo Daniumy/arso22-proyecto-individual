@@ -1,7 +1,7 @@
 {
 	"calificacionMedia": 3.0,
 	"numValoraciones": 2,
-	"url": "https://www.urldeprueba.com",
+	"url": "localhost",
 	"valoraciones": [
 		{
 			"calificacion": 2.0,

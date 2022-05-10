@@ -78,7 +78,6 @@ public class ServicioOpiniones implements IServicioOpiniones {
 				valoracionaux.setComentario(valoracion.getComentario());
 				valoracionaux.setFechaRegistro(valoracion.getFechaRegistro());
 				repositorio.update(opinion);
-				System.out.println("modificado uno");
 				return;
 			}
 		}

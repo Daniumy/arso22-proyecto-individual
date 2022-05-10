@@ -33,7 +33,7 @@ public class ProyectoControladorRest {
     @Context
     private UriInfo uriInfo;
 
-    // curl -H "Accept: application/json" http://localhost:8080/api/ciudades
+    // curl -H "Accept: application/json" http://localhost:8081/api/ciudades
 
     @GET
     @Produces({MediaType.APPLICATION_XML, MediaType.APPLICATION_JSON})

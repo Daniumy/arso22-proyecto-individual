@@ -82,16 +82,12 @@ public class RepositorioOpinionesMongoDB implements RepositorioOpiniones {
 	@Override
 	public void update(Opinion opinion) throws RepositorioException, EntidadNoEncontrada {
 		if (!checkDocument(opinion.getId())) {
-			System.out.println("NO EXISTE LA ENTIDAD WHAT");
 			throw new EntidadNoEncontrada("No existe la entidad con id:" + opinion.getId());
 		}
 		try {
-			System.out.println("SI EXISTE LA ENTIDAD WHAT");
 			opiniones.replaceOne(Filters.eq("_id", opinion.getId()), opinion);
-			System.out.println("SI EXISTE LA ENTIDAD WHAT");
 
 		} catch (Exception e) {
-			System.out.println("NO SE HA PODIDO ACTUALIZAR LA ENTIDAD WHAT");
 			throw new RepositorioException("No se ha podido actualizar la entidad, id:" + opinion.getId(), e);
 		}
 	}

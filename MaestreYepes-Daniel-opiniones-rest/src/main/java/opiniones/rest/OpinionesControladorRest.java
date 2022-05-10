@@ -46,9 +46,7 @@ public class OpinionesControladorRest {
 	@Consumes(MediaType.APPLICATION_JSON)
 	@Secured(AvailableRoles.ADMINISTRADOR)
 	public Response create(Opinion opinion) throws Exception {
-		System.out.println("he entrado al create normal");
 		String id = servicio.create(opinion);
-		System.out.println(id);
 		URI uri = uriInfo.getAbsolutePathBuilder().path(id).build();
 
 		return Response.created(uri).build();
@@ -63,7 +61,6 @@ public class OpinionesControladorRest {
 	@Path("{url: .*}")
 	@Secured(AvailableRoles.ADMINISTRADOR)
 	public Response removeUrl(@PathParam("url") String url) throws Exception {
-		System.out.println(url);
 		servicio.removeUrl(url);
 
 		return Response.noContent().build();
