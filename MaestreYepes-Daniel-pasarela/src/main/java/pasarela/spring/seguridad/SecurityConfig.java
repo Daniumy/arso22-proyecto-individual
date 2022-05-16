@@ -21,9 +21,13 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 
 		// A modo de ejemplo, se configura el acceso público a otro servicio
 		// Solo establece autenticación para el servicio actividades
-
-		httpSecurity.csrf().disable().httpBasic().disable().authorizeRequests().antMatchers("/ciudades/**").permitAll()
-				.antMatchers("/opiniones/**").authenticated().and().oauth2Login().successHandler(successHandler).and()
+		
+		httpSecurity.csrf().disable().httpBasic().disable().authorizeRequests()
+				.antMatchers("/ciudades/**").permitAll()
+				.antMatchers("/opiniones/**").authenticated()
+				.antMatchers("/guias/**").permitAll()
+				.antMatchers("/usuarios/**").authenticated()
+				.and().oauth2Login().successHandler(successHandler).and()
 				.sessionManagement().sessionCreationPolicy(SessionCreationPolicy.STATELESS);
 
 		// Establece el filtro de autenticación en la cadena de filtros de seguridad
